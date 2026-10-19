@@ -1,0 +1,2330 @@
+﻿{
+    "notifications":  {
+                          "success":  true,
+                          "data":  [
+                                       {
+                                           "_id":  "69859da012b1226c2f54fafb",
+                                           "user":  {
+                                                        "_id":  "6970caed7272527307bdafe2",
+                                                        "name":  "Super Admin",
+                                                        "email":  "superadmin@gmail.com",
+                                                        "id":  "6970caed7272527307bdafe2"
+                                                    },
+                                           "title":  "Finance Follow-up Reminder",
+                                           "message":  "Finance Follow-up reminder: Rohit Sharma",
+                                           "type":  "finance",
+                                           "refId":  "6973210998d3663a4b06f0db",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "__v":  0,
+                                           "createdAt":  "2026-02-06T07:52:00.367Z",
+                                           "updatedAt":  "2026-02-06T07:52:00.367Z"
+                                       },
+                                       {
+                                           "_id":  "69859da012b1226c2f54faf7",
+                                           "user":  {
+                                                        "_id":  "6971bbd9df381f2923748844",
+                                                        "name":  "Admin One",
+                                                        "email":  "admin1@gmail.com",
+                                                        "id":  "6971bbd9df381f2923748844"
+                                                    },
+                                           "title":  "Finance Follow-up Reminder",
+                                           "message":  "Finance Follow-up reminder: Rohit Sharma",
+                                           "type":  "finance",
+                                           "refId":  "6973210998d3663a4b06f0db",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "__v":  0,
+                                           "createdAt":  "2026-02-06T07:52:00.367Z",
+                                           "updatedAt":  "2026-02-06T07:52:00.367Z"
+                                       },
+                                       {
+                                           "_id":  "69859da012b1226c2f54faf8",
+                                           "user":  {
+                                                        "_id":  "6971bf90df381f292374884e",
+                                                        "name":  "Teamlead Finance",
+                                                        "email":  "teamlead_finance@gmail.com",
+                                                        "id":  "6971bf90df381f292374884e"
+                                                    },
+                                           "title":  "Finance Follow-up Reminder",
+                                           "message":  "Finance Follow-up reminder: Rohit Sharma",
+                                           "type":  "finance",
+                                           "refId":  "6973210998d3663a4b06f0db",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "__v":  0,
+                                           "createdAt":  "2026-02-06T07:52:00.367Z",
+                                           "updatedAt":  "2026-02-06T07:52:00.367Z"
+                                       },
+                                       {
+                                           "_id":  "69859da012b1226c2f54fafc",
+                                           "user":  {
+                                                        "_id":  "6971bbd9df381f2923748844",
+                                                        "name":  "Admin One",
+                                                        "email":  "admin1@gmail.com",
+                                                        "id":  "6971bbd9df381f2923748844"
+                                                    },
+                                           "title":  "Finance Follow-up Reminder",
+                                           "message":  "Finance Follow-up reminder: Rohit Sharma",
+                                           "type":  "finance",
+                                           "refId":  "697321cd98d3663a4b06f0e6",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "__v":  0,
+                                           "createdAt":  "2026-02-06T07:52:00.367Z",
+                                           "updatedAt":  "2026-02-06T07:52:00.367Z"
+                                       },
+                                       {
+                                           "_id":  "69859da012b1226c2f54fafe",
+                                           "user":  {
+                                                        "_id":  "6971bfb2df381f2923748854",
+                                                        "name":  "Employee Finance",
+                                                        "email":  "employee_finance@gmail.com",
+                                                        "id":  "6971bfb2df381f2923748854"
+                                                    },
+                                           "title":  "Finance Follow-up Reminder",
+                                           "message":  "Finance Follow-up reminder: Rohit Sharma",
+                                           "type":  "finance",
+                                           "refId":  "697321cd98d3663a4b06f0e6",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "__v":  0,
+                                           "createdAt":  "2026-02-06T07:52:00.367Z",
+                                           "updatedAt":  "2026-02-06T07:52:00.367Z"
+                                       },
+                                       {
+                                           "_id":  "69859da012b1226c2f54fb00",
+                                           "user":  {
+                                                        "_id":  "6970caed7272527307bdafe2",
+                                                        "name":  "Super Admin",
+                                                        "email":  "superadmin@gmail.com",
+                                                        "id":  "6970caed7272527307bdafe2"
+                                                    },
+                                           "title":  "Finance Follow-up Reminder",
+                                           "message":  "Finance Follow-up reminder: Rohit Sharma",
+                                           "type":  "finance",
+                                           "refId":  "697321cd98d3663a4b06f0e6",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "__v":  0,
+                                           "createdAt":  "2026-02-06T07:52:00.367Z",
+                                           "updatedAt":  "2026-02-06T07:52:00.367Z"
+                                       },
+                                       {
+                                           "_id":  "69859da012b1226c2f54fafa",
+                                           "user":  {
+                                                        "_id":  "6971bbd9df381f2923748844",
+                                                        "name":  "Admin One",
+                                                        "email":  "admin1@gmail.com",
+                                                        "id":  "6971bbd9df381f2923748844"
+                                                    },
+                                           "title":  "Finance Follow-up Reminder",
+                                           "message":  "Finance Follow-up reminder: Rohit Sharma",
+                                           "type":  "finance",
+                                           "refId":  "6973210998d3663a4b06f0db",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "__v":  0,
+                                           "createdAt":  "2026-02-06T07:52:00.367Z",
+                                           "updatedAt":  "2026-02-06T07:52:00.367Z"
+                                       },
+                                       {
+                                           "_id":  "69859da012b1226c2f54faf9",
+                                           "user":  {
+                                                        "_id":  "6971bfb2df381f2923748854",
+                                                        "name":  "Employee Finance",
+                                                        "email":  "employee_finance@gmail.com",
+                                                        "id":  "6971bfb2df381f2923748854"
+                                                    },
+                                           "title":  "Finance Follow-up Reminder",
+                                           "message":  "Finance Follow-up reminder: Rohit Sharma",
+                                           "type":  "finance",
+                                           "refId":  "6973210998d3663a4b06f0db",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "__v":  0,
+                                           "createdAt":  "2026-02-06T07:52:00.367Z",
+                                           "updatedAt":  "2026-02-06T07:52:00.367Z"
+                                       },
+                                       {
+                                           "_id":  "69859da012b1226c2f54faff",
+                                           "user":  {
+                                                        "_id":  "6971bbd9df381f2923748844",
+                                                        "name":  "Admin One",
+                                                        "email":  "admin1@gmail.com",
+                                                        "id":  "6971bbd9df381f2923748844"
+                                                    },
+                                           "title":  "Finance Follow-up Reminder",
+                                           "message":  "Finance Follow-up reminder: Rohit Sharma",
+                                           "type":  "finance",
+                                           "refId":  "697321cd98d3663a4b06f0e6",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "__v":  0,
+                                           "createdAt":  "2026-02-06T07:52:00.367Z",
+                                           "updatedAt":  "2026-02-06T07:52:00.367Z"
+                                       },
+                                       {
+                                           "_id":  "69859da012b1226c2f54fafd",
+                                           "user":  {
+                                                        "_id":  "6971bf90df381f292374884e",
+                                                        "name":  "Teamlead Finance",
+                                                        "email":  "teamlead_finance@gmail.com",
+                                                        "id":  "6971bf90df381f292374884e"
+                                                    },
+                                           "title":  "Finance Follow-up Reminder",
+                                           "message":  "Finance Follow-up reminder: Rohit Sharma",
+                                           "type":  "finance",
+                                           "refId":  "697321cd98d3663a4b06f0e6",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "__v":  0,
+                                           "createdAt":  "2026-02-06T07:52:00.367Z",
+                                           "updatedAt":  "2026-02-06T07:52:00.367Z"
+                                       },
+                                       {
+                                           "_id":  "69859da012b1226c2f54faf1",
+                                           "user":  {
+                                                        "_id":  "6970caed7272527307bdafe2",
+                                                        "name":  "Super Admin",
+                                                        "email":  "superadmin@gmail.com",
+                                                        "id":  "6970caed7272527307bdafe2"
+                                                    },
+                                           "title":  "Property Follow-up Reminder",
+                                           "message":  "Property Follow-up reminder: Rohit Mehra",
+                                           "type":  "property",
+                                           "refId":  "69732f6e5b32370adb0faf17",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "__v":  0,
+                                           "createdAt":  "2026-02-06T07:52:00.166Z",
+                                           "updatedAt":  "2026-02-06T07:52:00.166Z"
+                                       },
+                                       {
+                                           "_id":  "69859da012b1226c2f54faef",
+                                           "user":  {
+                                                        "_id":  "6971bfa0df381f2923748851",
+                                                        "name":  "Employee Property",
+                                                        "email":  "employee_property@gmail.com",
+                                                        "id":  "6971bfa0df381f2923748851"
+                                                    },
+                                           "title":  "Property Follow-up Reminder",
+                                           "message":  "Property Follow-up reminder: Rohit Mehra",
+                                           "type":  "property",
+                                           "refId":  "69732f6e5b32370adb0faf17",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "__v":  0,
+                                           "createdAt":  "2026-02-06T07:52:00.166Z",
+                                           "updatedAt":  "2026-02-06T07:52:00.166Z"
+                                       },
+                                       {
+                                           "_id":  "69859da012b1226c2f54faf0",
+                                           "user":  {
+                                                        "_id":  "6971bbd9df381f2923748844",
+                                                        "name":  "Admin One",
+                                                        "email":  "admin1@gmail.com",
+                                                        "id":  "6971bbd9df381f2923748844"
+                                                    },
+                                           "title":  "Property Follow-up Reminder",
+                                           "message":  "Property Follow-up reminder: Rohit Mehra",
+                                           "type":  "property",
+                                           "refId":  "69732f6e5b32370adb0faf17",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "__v":  0,
+                                           "createdAt":  "2026-02-06T07:52:00.166Z",
+                                           "updatedAt":  "2026-02-06T07:52:00.166Z"
+                                       },
+                                       {
+                                           "_id":  "69859da012b1226c2f54fae4",
+                                           "user":  {
+                                                        "_id":  "6971bf78df381f292374884b",
+                                                        "name":  "Teamlead Property",
+                                                        "email":  "teamlead_property@gmail.com",
+                                                        "id":  "6971bf78df381f292374884b"
+                                                    },
+                                           "title":  "Property Follow-up Reminder",
+                                           "message":  "Property Follow-up reminder: Rohit Mehra",
+                                           "type":  "property",
+                                           "refId":  "697323b298d3663a4b06f0f4",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "__v":  0,
+                                           "createdAt":  "2026-02-06T07:52:00.165Z",
+                                           "updatedAt":  "2026-02-06T07:52:00.165Z"
+                                       },
+                                       {
+                                           "_id":  "69859da012b1226c2f54faea",
+                                           "user":  {
+                                                        "_id":  "6971bfa0df381f2923748851",
+                                                        "name":  "Employee Property",
+                                                        "email":  "employee_property@gmail.com",
+                                                        "id":  "6971bfa0df381f2923748851"
+                                                    },
+                                           "title":  "Property Follow-up Reminder",
+                                           "message":  "Property Follow-up reminder: Rohit Mehra",
+                                           "type":  "property",
+                                           "refId":  "6973525f872a863d53f458da",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "__v":  0,
+                                           "createdAt":  "2026-02-06T07:52:00.165Z",
+                                           "updatedAt":  "2026-02-06T07:52:00.165Z"
+                                       },
+                                       {
+                                           "_id":  "69859da012b1226c2f54fae6",
+                                           "user":  {
+                                                        "_id":  "6971bbd9df381f2923748844",
+                                                        "name":  "Admin One",
+                                                        "email":  "admin1@gmail.com",
+                                                        "id":  "6971bbd9df381f2923748844"
+                                                    },
+                                           "title":  "Property Follow-up Reminder",
+                                           "message":  "Property Follow-up reminder: Rohit Mehra",
+                                           "type":  "property",
+                                           "refId":  "697323b298d3663a4b06f0f4",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "__v":  0,
+                                           "createdAt":  "2026-02-06T07:52:00.165Z",
+                                           "updatedAt":  "2026-02-06T07:52:00.165Z"
+                                       },
+                                       {
+                                           "_id":  "69859da012b1226c2f54faed",
+                                           "user":  {
+                                                        "_id":  "6971bbd9df381f2923748844",
+                                                        "name":  "Admin One",
+                                                        "email":  "admin1@gmail.com",
+                                                        "id":  "6971bbd9df381f2923748844"
+                                                    },
+                                           "title":  "Property Follow-up Reminder",
+                                           "message":  "Property Follow-up reminder: Rohit Mehra",
+                                           "type":  "property",
+                                           "refId":  "69732f6e5b32370adb0faf17",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "__v":  0,
+                                           "createdAt":  "2026-02-06T07:52:00.165Z",
+                                           "updatedAt":  "2026-02-06T07:52:00.165Z"
+                                       },
+                                       {
+                                           "_id":  "69859da012b1226c2f54faee",
+                                           "user":  {
+                                                        "_id":  "6971bf78df381f292374884b",
+                                                        "name":  "Teamlead Property",
+                                                        "email":  "teamlead_property@gmail.com",
+                                                        "id":  "6971bf78df381f292374884b"
+                                                    },
+                                           "title":  "Property Follow-up Reminder",
+                                           "message":  "Property Follow-up reminder: Rohit Mehra",
+                                           "type":  "property",
+                                           "refId":  "69732f6e5b32370adb0faf17",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "__v":  0,
+                                           "createdAt":  "2026-02-06T07:52:00.165Z",
+                                           "updatedAt":  "2026-02-06T07:52:00.165Z"
+                                       },
+                                       {
+                                           "_id":  "69859da012b1226c2f54fae8",
+                                           "user":  {
+                                                        "_id":  "6971bbd9df381f2923748844",
+                                                        "name":  "Admin One",
+                                                        "email":  "admin1@gmail.com",
+                                                        "id":  "6971bbd9df381f2923748844"
+                                                    },
+                                           "title":  "Property Follow-up Reminder",
+                                           "message":  "Property Follow-up reminder: Rohit Mehra",
+                                           "type":  "property",
+                                           "refId":  "6973525f872a863d53f458da",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "__v":  0,
+                                           "createdAt":  "2026-02-06T07:52:00.165Z",
+                                           "updatedAt":  "2026-02-06T07:52:00.165Z"
+                                       },
+                                       {
+                                           "_id":  "69859da012b1226c2f54faeb",
+                                           "user":  {
+                                                        "_id":  "6971bbd9df381f2923748844",
+                                                        "name":  "Admin One",
+                                                        "email":  "admin1@gmail.com",
+                                                        "id":  "6971bbd9df381f2923748844"
+                                                    },
+                                           "title":  "Property Follow-up Reminder",
+                                           "message":  "Property Follow-up reminder: Rohit Mehra",
+                                           "type":  "property",
+                                           "refId":  "6973525f872a863d53f458da",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "__v":  0,
+                                           "createdAt":  "2026-02-06T07:52:00.165Z",
+                                           "updatedAt":  "2026-02-06T07:52:00.165Z"
+                                       },
+                                       {
+                                           "_id":  "69859da012b1226c2f54fae7",
+                                           "user":  {
+                                                        "_id":  "6970caed7272527307bdafe2",
+                                                        "name":  "Super Admin",
+                                                        "email":  "superadmin@gmail.com",
+                                                        "id":  "6970caed7272527307bdafe2"
+                                                    },
+                                           "title":  "Property Follow-up Reminder",
+                                           "message":  "Property Follow-up reminder: Rohit Mehra",
+                                           "type":  "property",
+                                           "refId":  "697323b298d3663a4b06f0f4",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "__v":  0,
+                                           "createdAt":  "2026-02-06T07:52:00.165Z",
+                                           "updatedAt":  "2026-02-06T07:52:00.165Z"
+                                       },
+                                       {
+                                           "_id":  "69859da012b1226c2f54faec",
+                                           "user":  {
+                                                        "_id":  "6970caed7272527307bdafe2",
+                                                        "name":  "Super Admin",
+                                                        "email":  "superadmin@gmail.com",
+                                                        "id":  "6970caed7272527307bdafe2"
+                                                    },
+                                           "title":  "Property Follow-up Reminder",
+                                           "message":  "Property Follow-up reminder: Rohit Mehra",
+                                           "type":  "property",
+                                           "refId":  "6973525f872a863d53f458da",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "__v":  0,
+                                           "createdAt":  "2026-02-06T07:52:00.165Z",
+                                           "updatedAt":  "2026-02-06T07:52:00.165Z"
+                                       },
+                                       {
+                                           "_id":  "69859da012b1226c2f54fae9",
+                                           "user":  {
+                                                        "_id":  "6971bf78df381f292374884b",
+                                                        "name":  "Teamlead Property",
+                                                        "email":  "teamlead_property@gmail.com",
+                                                        "id":  "6971bf78df381f292374884b"
+                                                    },
+                                           "title":  "Property Follow-up Reminder",
+                                           "message":  "Property Follow-up reminder: Rohit Mehra",
+                                           "type":  "property",
+                                           "refId":  "6973525f872a863d53f458da",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "__v":  0,
+                                           "createdAt":  "2026-02-06T07:52:00.165Z",
+                                           "updatedAt":  "2026-02-06T07:52:00.165Z"
+                                       },
+                                       {
+                                           "_id":  "69859da012b1226c2f54fae5",
+                                           "user":  {
+                                                        "_id":  "6971bfa0df381f2923748851",
+                                                        "name":  "Employee Property",
+                                                        "email":  "employee_property@gmail.com",
+                                                        "id":  "6971bfa0df381f2923748851"
+                                                    },
+                                           "title":  "Property Follow-up Reminder",
+                                           "message":  "Property Follow-up reminder: Rohit Mehra",
+                                           "type":  "property",
+                                           "refId":  "697323b298d3663a4b06f0f4",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "__v":  0,
+                                           "createdAt":  "2026-02-06T07:52:00.165Z",
+                                           "updatedAt":  "2026-02-06T07:52:00.165Z"
+                                       },
+                                       {
+                                           "_id":  "69859da012b1226c2f54fae3",
+                                           "user":  {
+                                                        "_id":  "6971bbd9df381f2923748844",
+                                                        "name":  "Admin One",
+                                                        "email":  "admin1@gmail.com",
+                                                        "id":  "6971bbd9df381f2923748844"
+                                                    },
+                                           "title":  "Property Follow-up Reminder",
+                                           "message":  "Property Follow-up reminder: Rohit Mehra",
+                                           "type":  "property",
+                                           "refId":  "697323b298d3663a4b06f0f4",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "__v":  0,
+                                           "createdAt":  "2026-02-06T07:52:00.163Z",
+                                           "updatedAt":  "2026-02-06T07:52:00.163Z"
+                                       },
+                                       {
+                                           "_id":  "697c48e005e28269f385b1e9",
+                                           "user":  {
+                                                        "_id":  "6971bbd9df381f2923748844",
+                                                        "name":  "Admin One",
+                                                        "email":  "admin1@gmail.com",
+                                                        "id":  "6971bbd9df381f2923748844"
+                                                    },
+                                           "title":  "Task Due Reminder",
+                                           "message":  "Task Due reminder: undefined",
+                                           "type":  "note",
+                                           "refId":  "69735fe2573f50dc9d7b0ccf",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "__v":  0,
+                                           "createdAt":  "2026-01-30T06:00:00.695Z",
+                                           "updatedAt":  "2026-01-30T06:00:00.695Z"
+                                       },
+                                       {
+                                           "_id":  "697c48e005e28269f385b1ea",
+                                           "user":  {
+                                                        "_id":  "6970caed7272527307bdafe2",
+                                                        "name":  "Super Admin",
+                                                        "email":  "superadmin@gmail.com",
+                                                        "id":  "6970caed7272527307bdafe2"
+                                                    },
+                                           "title":  "Task Due Reminder",
+                                           "message":  "Task Due reminder: undefined",
+                                           "type":  "note",
+                                           "refId":  "69735fe2573f50dc9d7b0ccf",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "__v":  0,
+                                           "createdAt":  "2026-01-30T06:00:00.695Z",
+                                           "updatedAt":  "2026-01-30T06:00:00.695Z"
+                                       },
+                                       {
+                                           "_id":  "697c48e005e28269f385b1e8",
+                                           "user":  {
+                                                        "_id":  "6971bbd9df381f2923748844",
+                                                        "name":  "Admin One",
+                                                        "email":  "admin1@gmail.com",
+                                                        "id":  "6971bbd9df381f2923748844"
+                                                    },
+                                           "title":  "Task Due Reminder",
+                                           "message":  "Task Due reminder: undefined",
+                                           "type":  "note",
+                                           "refId":  "69735fe2573f50dc9d7b0ccf",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "__v":  0,
+                                           "createdAt":  "2026-01-30T06:00:00.694Z",
+                                           "updatedAt":  "2026-01-30T06:00:00.694Z"
+                                       },
+                                       {
+                                           "_id":  "697c48e0e16a37445803a79f",
+                                           "user":  {
+                                                        "_id":  "6970caed7272527307bdafe2",
+                                                        "name":  "Super Admin",
+                                                        "email":  "superadmin@gmail.com",
+                                                        "id":  "6970caed7272527307bdafe2"
+                                                    },
+                                           "title":  "Task Due Reminder",
+                                           "message":  "Task Due reminder: undefined",
+                                           "type":  "note",
+                                           "refId":  "69735fe2573f50dc9d7b0ccf",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "__v":  0,
+                                           "createdAt":  "2026-01-30T06:00:00.688Z",
+                                           "updatedAt":  "2026-01-30T06:00:00.688Z"
+                                       },
+                                       {
+                                           "_id":  "697c48e0e16a37445803a79e",
+                                           "user":  {
+                                                        "_id":  "6971bbd9df381f2923748844",
+                                                        "name":  "Admin One",
+                                                        "email":  "admin1@gmail.com",
+                                                        "id":  "6971bbd9df381f2923748844"
+                                                    },
+                                           "title":  "Task Due Reminder",
+                                           "message":  "Task Due reminder: undefined",
+                                           "type":  "note",
+                                           "refId":  "69735fe2573f50dc9d7b0ccf",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "__v":  0,
+                                           "createdAt":  "2026-01-30T06:00:00.688Z",
+                                           "updatedAt":  "2026-01-30T06:00:00.688Z"
+                                       },
+                                       {
+                                           "_id":  "697c48e0e16a37445803a79d",
+                                           "user":  {
+                                                        "_id":  "6971bbd9df381f2923748844",
+                                                        "name":  "Admin One",
+                                                        "email":  "admin1@gmail.com",
+                                                        "id":  "6971bbd9df381f2923748844"
+                                                    },
+                                           "title":  "Task Due Reminder",
+                                           "message":  "Task Due reminder: undefined",
+                                           "type":  "note",
+                                           "refId":  "69735fe2573f50dc9d7b0ccf",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "__v":  0,
+                                           "createdAt":  "2026-01-30T06:00:00.687Z",
+                                           "updatedAt":  "2026-01-30T06:00:00.687Z"
+                                       },
+                                       {
+                                           "_id":  "6978acbc3e764d4ac1e9787e",
+                                           "user":  {
+                                                        "_id":  "6970caed7272527307bdafe2",
+                                                        "name":  "Super Admin",
+                                                        "email":  "superadmin@gmail.com",
+                                                        "id":  "6970caed7272527307bdafe2"
+                                                    },
+                                           "title":  "Property Follow-up",
+                                           "message":  "Property Follow-up: Suresh Verma",
+                                           "type":  "property",
+                                           "refId":  "6978a9b23e764d4ac1e9781a",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "createdAt":  "2026-01-27T12:17:00.224Z",
+                                           "updatedAt":  "2026-01-27T12:17:00.224Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "6978acbc3e764d4ac1e9787c",
+                                           "user":  {
+                                                        "_id":  "6971bbd9df381f2923748844",
+                                                        "name":  "Admin One",
+                                                        "email":  "admin1@gmail.com",
+                                                        "id":  "6971bbd9df381f2923748844"
+                                                    },
+                                           "title":  "Property Follow-up",
+                                           "message":  "Property Follow-up: Suresh Verma",
+                                           "type":  "property",
+                                           "refId":  "6978a9b23e764d4ac1e9781a",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "createdAt":  "2026-01-27T12:17:00.192Z",
+                                           "updatedAt":  "2026-01-27T12:17:00.192Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "6978acbc3e764d4ac1e9787a",
+                                           "user":  {
+                                                        "_id":  "6971bf78df381f292374884b",
+                                                        "name":  "Teamlead Property",
+                                                        "email":  "teamlead_property@gmail.com",
+                                                        "id":  "6971bf78df381f292374884b"
+                                                    },
+                                           "title":  "Property Follow-up",
+                                           "message":  "Property Follow-up: Suresh Verma",
+                                           "type":  "property",
+                                           "refId":  "6978a9b23e764d4ac1e9781a",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "createdAt":  "2026-01-27T12:17:00.150Z",
+                                           "updatedAt":  "2026-01-27T12:17:00.150Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "6978acbc3e764d4ac1e97878",
+                                           "user":  {
+                                                        "_id":  "6971bbd9df381f2923748844",
+                                                        "name":  "Admin One",
+                                                        "email":  "admin1@gmail.com",
+                                                        "id":  "6971bbd9df381f2923748844"
+                                                    },
+                                           "title":  "Property Follow-up",
+                                           "message":  "Property Follow-up: Suresh Verma",
+                                           "type":  "property",
+                                           "refId":  "6978a9b23e764d4ac1e9781a",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "createdAt":  "2026-01-27T12:17:00.115Z",
+                                           "updatedAt":  "2026-01-27T12:17:00.115Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "6978ac443e764d4ac1e9786c",
+                                           "user":  {
+                                                        "_id":  "6970caed7272527307bdafe2",
+                                                        "name":  "Super Admin",
+                                                        "email":  "superadmin@gmail.com",
+                                                        "id":  "6970caed7272527307bdafe2"
+                                                    },
+                                           "title":  "Property Follow-up",
+                                           "message":  "Property Follow-up: Neha Sharma",
+                                           "type":  "property",
+                                           "refId":  "6978a9a13e764d4ac1e97808",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "createdAt":  "2026-01-27T12:15:00.225Z",
+                                           "updatedAt":  "2026-01-27T12:15:00.225Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "6978ac443e764d4ac1e9786a",
+                                           "user":  {
+                                                        "_id":  "6971bbd9df381f2923748844",
+                                                        "name":  "Admin One",
+                                                        "email":  "admin1@gmail.com",
+                                                        "id":  "6971bbd9df381f2923748844"
+                                                    },
+                                           "title":  "Property Follow-up",
+                                           "message":  "Property Follow-up: Neha Sharma",
+                                           "type":  "property",
+                                           "refId":  "6978a9a13e764d4ac1e97808",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "createdAt":  "2026-01-27T12:15:00.193Z",
+                                           "updatedAt":  "2026-01-27T12:15:00.193Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "6978ac443e764d4ac1e97868",
+                                           "user":  {
+                                                        "_id":  "6971bf78df381f292374884b",
+                                                        "name":  "Teamlead Property",
+                                                        "email":  "teamlead_property@gmail.com",
+                                                        "id":  "6971bf78df381f292374884b"
+                                                    },
+                                           "title":  "Property Follow-up",
+                                           "message":  "Property Follow-up: Neha Sharma",
+                                           "type":  "property",
+                                           "refId":  "6978a9a13e764d4ac1e97808",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "createdAt":  "2026-01-27T12:15:00.161Z",
+                                           "updatedAt":  "2026-01-27T12:15:00.161Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "6978ac443e764d4ac1e97866",
+                                           "user":  {
+                                                        "_id":  "6971bbd9df381f2923748844",
+                                                        "name":  "Admin One",
+                                                        "email":  "admin1@gmail.com",
+                                                        "id":  "6971bbd9df381f2923748844"
+                                                    },
+                                           "title":  "Property Follow-up",
+                                           "message":  "Property Follow-up: Neha Sharma",
+                                           "type":  "property",
+                                           "refId":  "6978a9a13e764d4ac1e97808",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "createdAt":  "2026-01-27T12:15:00.118Z",
+                                           "updatedAt":  "2026-01-27T12:15:00.118Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "6978ab543e764d4ac1e97852",
+                                           "user":  {
+                                                        "_id":  "6970caed7272527307bdafe2",
+                                                        "name":  "Super Admin",
+                                                        "email":  "superadmin@gmail.com",
+                                                        "id":  "6970caed7272527307bdafe2"
+                                                    },
+                                           "title":  "Property Follow-up",
+                                           "message":  "Property Follow-up: Amit Khanna",
+                                           "type":  "property",
+                                           "refId":  "6978a9903e764d4ac1e977fa",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "createdAt":  "2026-01-27T12:11:00.245Z",
+                                           "updatedAt":  "2026-01-27T12:11:00.245Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "6978ab543e764d4ac1e97850",
+                                           "user":  {
+                                                        "_id":  "6971bbd9df381f2923748844",
+                                                        "name":  "Admin One",
+                                                        "email":  "admin1@gmail.com",
+                                                        "id":  "6971bbd9df381f2923748844"
+                                                    },
+                                           "title":  "Property Follow-up",
+                                           "message":  "Property Follow-up: Amit Khanna",
+                                           "type":  "property",
+                                           "refId":  "6978a9903e764d4ac1e977fa",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "createdAt":  "2026-01-27T12:11:00.209Z",
+                                           "updatedAt":  "2026-01-27T12:11:00.209Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "6978ab543e764d4ac1e9784e",
+                                           "user":  {
+                                                        "_id":  "6971bf78df381f292374884b",
+                                                        "name":  "Teamlead Property",
+                                                        "email":  "teamlead_property@gmail.com",
+                                                        "id":  "6971bf78df381f292374884b"
+                                                    },
+                                           "title":  "Property Follow-up",
+                                           "message":  "Property Follow-up: Amit Khanna",
+                                           "type":  "property",
+                                           "refId":  "6978a9903e764d4ac1e977fa",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "createdAt":  "2026-01-27T12:11:00.178Z",
+                                           "updatedAt":  "2026-01-27T12:11:00.178Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "6978ab543e764d4ac1e9784c",
+                                           "user":  {
+                                                        "_id":  "6971bbd9df381f2923748844",
+                                                        "name":  "Admin One",
+                                                        "email":  "admin1@gmail.com",
+                                                        "id":  "6971bbd9df381f2923748844"
+                                                    },
+                                           "title":  "Property Follow-up",
+                                           "message":  "Property Follow-up: Amit Khanna",
+                                           "type":  "property",
+                                           "refId":  "6978a9903e764d4ac1e977fa",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "createdAt":  "2026-01-27T12:11:00.136Z",
+                                           "updatedAt":  "2026-01-27T12:11:00.136Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "6978aadc3e764d4ac1e97840",
+                                           "user":  {
+                                                        "_id":  "6970caed7272527307bdafe2",
+                                                        "name":  "Super Admin",
+                                                        "email":  "superadmin@gmail.com",
+                                                        "id":  "6970caed7272527307bdafe2"
+                                                    },
+                                           "title":  "Property Follow-up",
+                                           "message":  "Property Follow-up: Rohit Mehra",
+                                           "type":  "property",
+                                           "refId":  "6978a97f3e764d4ac1e977ec",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "createdAt":  "2026-01-27T12:09:00.237Z",
+                                           "updatedAt":  "2026-01-27T12:09:00.237Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "6978aadc3e764d4ac1e9783e",
+                                           "user":  {
+                                                        "_id":  "6971bbd9df381f2923748844",
+                                                        "name":  "Admin One",
+                                                        "email":  "admin1@gmail.com",
+                                                        "id":  "6971bbd9df381f2923748844"
+                                                    },
+                                           "title":  "Property Follow-up",
+                                           "message":  "Property Follow-up: Rohit Mehra",
+                                           "type":  "property",
+                                           "refId":  "6978a97f3e764d4ac1e977ec",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "createdAt":  "2026-01-27T12:09:00.206Z",
+                                           "updatedAt":  "2026-01-27T12:09:00.206Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "6978aadc3e764d4ac1e9783c",
+                                           "user":  {
+                                                        "_id":  "6971bf78df381f292374884b",
+                                                        "name":  "Teamlead Property",
+                                                        "email":  "teamlead_property@gmail.com",
+                                                        "id":  "6971bf78df381f292374884b"
+                                                    },
+                                           "title":  "Property Follow-up",
+                                           "message":  "Property Follow-up: Rohit Mehra",
+                                           "type":  "property",
+                                           "refId":  "6978a97f3e764d4ac1e977ec",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "createdAt":  "2026-01-27T12:09:00.174Z",
+                                           "updatedAt":  "2026-01-27T12:09:00.174Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "6978aadc3e764d4ac1e9783a",
+                                           "user":  {
+                                                        "_id":  "6971bbd9df381f2923748844",
+                                                        "name":  "Admin One",
+                                                        "email":  "admin1@gmail.com",
+                                                        "id":  "6971bbd9df381f2923748844"
+                                                    },
+                                           "title":  "Property Follow-up",
+                                           "message":  "Property Follow-up: Rohit Mehra",
+                                           "type":  "property",
+                                           "refId":  "6978a97f3e764d4ac1e977ec",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "createdAt":  "2026-01-27T12:09:00.123Z",
+                                           "updatedAt":  "2026-01-27T12:09:00.123Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "6978a7583e764d4ac1e977d5",
+                                           "user":  {
+                                                        "_id":  "6970caed7272527307bdafe2",
+                                                        "name":  "Super Admin",
+                                                        "email":  "superadmin@gmail.com",
+                                                        "id":  "6970caed7272527307bdafe2"
+                                                    },
+                                           "title":  "Finance Follow-up",
+                                           "message":  "Finance Follow-up: Suresh Kumar",
+                                           "type":  "finance",
+                                           "refId":  "6978a6303e764d4ac1e977a6",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "createdAt":  "2026-01-27T11:54:00.322Z",
+                                           "updatedAt":  "2026-01-27T11:54:00.322Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "6978a7583e764d4ac1e977d3",
+                                           "user":  {
+                                                        "_id":  "6971bbd9df381f2923748844",
+                                                        "name":  "Admin One",
+                                                        "email":  "admin1@gmail.com",
+                                                        "id":  "6971bbd9df381f2923748844"
+                                                    },
+                                           "title":  "Finance Follow-up",
+                                           "message":  "Finance Follow-up: Suresh Kumar",
+                                           "type":  "finance",
+                                           "refId":  "6978a6303e764d4ac1e977a6",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "createdAt":  "2026-01-27T11:54:00.280Z",
+                                           "updatedAt":  "2026-01-27T11:54:00.280Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "6978a7583e764d4ac1e977d1",
+                                           "user":  {
+                                                        "_id":  "6971bfb2df381f2923748854",
+                                                        "name":  "Employee Finance",
+                                                        "email":  "employee_finance@gmail.com",
+                                                        "id":  "6971bfb2df381f2923748854"
+                                                    },
+                                           "title":  "Finance Follow-up",
+                                           "message":  "Finance Follow-up: Suresh Kumar",
+                                           "type":  "finance",
+                                           "refId":  "6978a6303e764d4ac1e977a6",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "createdAt":  "2026-01-27T11:54:00.212Z",
+                                           "updatedAt":  "2026-01-27T11:54:00.212Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "6978a7583e764d4ac1e977cf",
+                                           "user":  {
+                                                        "_id":  "6971bbd9df381f2923748844",
+                                                        "name":  "Admin One",
+                                                        "email":  "admin1@gmail.com",
+                                                        "id":  "6971bbd9df381f2923748844"
+                                                    },
+                                           "title":  "Finance Follow-up",
+                                           "message":  "Finance Follow-up: Suresh Kumar",
+                                           "type":  "finance",
+                                           "refId":  "6978a6303e764d4ac1e977a6",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "createdAt":  "2026-01-27T11:54:00.164Z",
+                                           "updatedAt":  "2026-01-27T11:54:00.164Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "6978a6a43e764d4ac1e977bf",
+                                           "user":  {
+                                                        "_id":  "6970caed7272527307bdafe2",
+                                                        "name":  "Super Admin",
+                                                        "email":  "superadmin@gmail.com",
+                                                        "id":  "6970caed7272527307bdafe2"
+                                                    },
+                                           "title":  "Finance Follow-up",
+                                           "message":  "Finance Follow-up: Neha Gupta",
+                                           "type":  "finance",
+                                           "refId":  "6978a61b3e764d4ac1e97783",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "createdAt":  "2026-01-27T11:51:00.279Z",
+                                           "updatedAt":  "2026-01-27T11:51:00.279Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "6978a6a43e764d4ac1e977bd",
+                                           "user":  {
+                                                        "_id":  "6971bbd9df381f2923748844",
+                                                        "name":  "Admin One",
+                                                        "email":  "admin1@gmail.com",
+                                                        "id":  "6971bbd9df381f2923748844"
+                                                    },
+                                           "title":  "Finance Follow-up",
+                                           "message":  "Finance Follow-up: Neha Gupta",
+                                           "type":  "finance",
+                                           "refId":  "6978a61b3e764d4ac1e97783",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "createdAt":  "2026-01-27T11:51:00.242Z",
+                                           "updatedAt":  "2026-01-27T11:51:00.242Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "6978a6a43e764d4ac1e977bb",
+                                           "user":  {
+                                                        "_id":  "6971bfb2df381f2923748854",
+                                                        "name":  "Employee Finance",
+                                                        "email":  "employee_finance@gmail.com",
+                                                        "id":  "6971bfb2df381f2923748854"
+                                                    },
+                                           "title":  "Finance Follow-up",
+                                           "message":  "Finance Follow-up: Neha Gupta",
+                                           "type":  "finance",
+                                           "refId":  "6978a61b3e764d4ac1e97783",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "createdAt":  "2026-01-27T11:51:00.207Z",
+                                           "updatedAt":  "2026-01-27T11:51:00.207Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "6978a6a43e764d4ac1e977b9",
+                                           "user":  {
+                                                        "_id":  "6971bbd9df381f2923748844",
+                                                        "name":  "Admin One",
+                                                        "email":  "admin1@gmail.com",
+                                                        "id":  "6971bbd9df381f2923748844"
+                                                    },
+                                           "title":  "Finance Follow-up",
+                                           "message":  "Finance Follow-up: Neha Gupta",
+                                           "type":  "finance",
+                                           "refId":  "6978a61b3e764d4ac1e97783",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "createdAt":  "2026-01-27T11:51:00.162Z",
+                                           "updatedAt":  "2026-01-27T11:51:00.162Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "6978a62c3e764d4ac1e9779f",
+                                           "user":  {
+                                                        "_id":  "6970caed7272527307bdafe2",
+                                                        "name":  "Super Admin",
+                                                        "email":  "superadmin@gmail.com",
+                                                        "id":  "6970caed7272527307bdafe2"
+                                                    },
+                                           "title":  "Finance Follow-up",
+                                           "message":  "Finance Follow-up: Amit Verma",
+                                           "type":  "finance",
+                                           "refId":  "6978a60e3e764d4ac1e97777",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "createdAt":  "2026-01-27T11:49:00.484Z",
+                                           "updatedAt":  "2026-01-27T11:49:00.484Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "6978a62c3e764d4ac1e9779d",
+                                           "user":  {
+                                                        "_id":  "6971bbd9df381f2923748844",
+                                                        "name":  "Admin One",
+                                                        "email":  "admin1@gmail.com",
+                                                        "id":  "6971bbd9df381f2923748844"
+                                                    },
+                                           "title":  "Finance Follow-up",
+                                           "message":  "Finance Follow-up: Amit Verma",
+                                           "type":  "finance",
+                                           "refId":  "6978a60e3e764d4ac1e97777",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "createdAt":  "2026-01-27T11:49:00.433Z",
+                                           "updatedAt":  "2026-01-27T11:49:00.433Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "6978a62c3e764d4ac1e9779b",
+                                           "user":  {
+                                                        "_id":  "6971bfb2df381f2923748854",
+                                                        "name":  "Employee Finance",
+                                                        "email":  "employee_finance@gmail.com",
+                                                        "id":  "6971bfb2df381f2923748854"
+                                                    },
+                                           "title":  "Finance Follow-up",
+                                           "message":  "Finance Follow-up: Amit Verma",
+                                           "type":  "finance",
+                                           "refId":  "6978a60e3e764d4ac1e97777",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "createdAt":  "2026-01-27T11:49:00.398Z",
+                                           "updatedAt":  "2026-01-27T11:49:00.398Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "6978a62c3e764d4ac1e97799",
+                                           "user":  {
+                                                        "_id":  "6971bbd9df381f2923748844",
+                                                        "name":  "Admin One",
+                                                        "email":  "admin1@gmail.com",
+                                                        "id":  "6971bbd9df381f2923748844"
+                                                    },
+                                           "title":  "Finance Follow-up",
+                                           "message":  "Finance Follow-up: Amit Verma",
+                                           "type":  "finance",
+                                           "refId":  "6978a60e3e764d4ac1e97777",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "createdAt":  "2026-01-27T11:49:00.361Z",
+                                           "updatedAt":  "2026-01-27T11:49:00.361Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "6978a62c3e764d4ac1e97796",
+                                           "user":  {
+                                                        "_id":  "6970caed7272527307bdafe2",
+                                                        "name":  "Super Admin",
+                                                        "email":  "superadmin@gmail.com",
+                                                        "id":  "6970caed7272527307bdafe2"
+                                                    },
+                                           "title":  "Finance Follow-up",
+                                           "message":  "Finance Follow-up: Amit Verma",
+                                           "type":  "finance",
+                                           "refId":  "6978a5fc3e764d4ac1e9776b",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "createdAt":  "2026-01-27T11:49:00.291Z",
+                                           "updatedAt":  "2026-01-27T11:49:00.291Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "6978a62c3e764d4ac1e97794",
+                                           "user":  {
+                                                        "_id":  "6971bbd9df381f2923748844",
+                                                        "name":  "Admin One",
+                                                        "email":  "admin1@gmail.com",
+                                                        "id":  "6971bbd9df381f2923748844"
+                                                    },
+                                           "title":  "Finance Follow-up",
+                                           "message":  "Finance Follow-up: Amit Verma",
+                                           "type":  "finance",
+                                           "refId":  "6978a5fc3e764d4ac1e9776b",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "createdAt":  "2026-01-27T11:49:00.255Z",
+                                           "updatedAt":  "2026-01-27T11:49:00.255Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "6978a62c3e764d4ac1e97792",
+                                           "user":  {
+                                                        "_id":  "6971bfb2df381f2923748854",
+                                                        "name":  "Employee Finance",
+                                                        "email":  "employee_finance@gmail.com",
+                                                        "id":  "6971bfb2df381f2923748854"
+                                                    },
+                                           "title":  "Finance Follow-up",
+                                           "message":  "Finance Follow-up: Amit Verma",
+                                           "type":  "finance",
+                                           "refId":  "6978a5fc3e764d4ac1e9776b",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "createdAt":  "2026-01-27T11:49:00.211Z",
+                                           "updatedAt":  "2026-01-27T11:49:00.211Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "6978a62c3e764d4ac1e97790",
+                                           "user":  {
+                                                        "_id":  "6971bbd9df381f2923748844",
+                                                        "name":  "Admin One",
+                                                        "email":  "admin1@gmail.com",
+                                                        "id":  "6971bbd9df381f2923748844"
+                                                    },
+                                           "title":  "Finance Follow-up",
+                                           "message":  "Finance Follow-up: Amit Verma",
+                                           "type":  "finance",
+                                           "refId":  "6978a5fc3e764d4ac1e9776b",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "createdAt":  "2026-01-27T11:49:00.161Z",
+                                           "updatedAt":  "2026-01-27T11:49:00.161Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "6978a5f03e764d4ac1e97764",
+                                           "user":  {
+                                                        "_id":  "6970caed7272527307bdafe2",
+                                                        "name":  "Super Admin",
+                                                        "email":  "superadmin@gmail.com",
+                                                        "id":  "6970caed7272527307bdafe2"
+                                                    },
+                                           "title":  "Finance Follow-up",
+                                           "message":  "Finance Follow-up: Rohit Sharma",
+                                           "type":  "finance",
+                                           "refId":  "6978a5ed3e764d4ac1e97751",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "createdAt":  "2026-01-27T11:48:00.287Z",
+                                           "updatedAt":  "2026-01-27T11:48:00.287Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "6978a5f03e764d4ac1e97762",
+                                           "user":  {
+                                                        "_id":  "6971bbd9df381f2923748844",
+                                                        "name":  "Admin One",
+                                                        "email":  "admin1@gmail.com",
+                                                        "id":  "6971bbd9df381f2923748844"
+                                                    },
+                                           "title":  "Finance Follow-up",
+                                           "message":  "Finance Follow-up: Rohit Sharma",
+                                           "type":  "finance",
+                                           "refId":  "6978a5ed3e764d4ac1e97751",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "createdAt":  "2026-01-27T11:48:00.251Z",
+                                           "updatedAt":  "2026-01-27T11:48:00.251Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "6978a5f03e764d4ac1e97760",
+                                           "user":  {
+                                                        "_id":  "6971bfb2df381f2923748854",
+                                                        "name":  "Employee Finance",
+                                                        "email":  "employee_finance@gmail.com",
+                                                        "id":  "6971bfb2df381f2923748854"
+                                                    },
+                                           "title":  "Finance Follow-up",
+                                           "message":  "Finance Follow-up: Rohit Sharma",
+                                           "type":  "finance",
+                                           "refId":  "6978a5ed3e764d4ac1e97751",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "createdAt":  "2026-01-27T11:48:00.214Z",
+                                           "updatedAt":  "2026-01-27T11:48:00.214Z",
+                                           "__v":  0
+                                       },
+                                       {
+                                           "_id":  "6978a5f03e764d4ac1e9775e",
+                                           "user":  {
+                                                        "_id":  "6971bbd9df381f2923748844",
+                                                        "name":  "Admin One",
+                                                        "email":  "admin1@gmail.com",
+                                                        "id":  "6971bbd9df381f2923748844"
+                                                    },
+                                           "title":  "Finance Follow-up",
+                                           "message":  "Finance Follow-up: Rohit Sharma",
+                                           "type":  "finance",
+                                           "refId":  "6978a5ed3e764d4ac1e97751",
+                                           "isRead":  false,
+                                           "createdBy":  "6971bbd9df381f2923748844",
+                                           "createdAt":  "2026-01-27T11:48:00.171Z",
+                                           "updatedAt":  "2026-01-27T11:48:00.171Z",
+                                           "__v":  0
+                                       }
+                                   ]
+                      },
+    "users":  {
+                  "success":  true,
+                  "count":  7,
+                  "users":  [
+                                {
+                                    "_id":  "6970caed7272527307bdafe2",
+                                    "name":  "Super Admin",
+                                    "email":  "superadmin@gmail.com",
+                                    "phoneNumber":  "9999999999",
+                                    "role":  "superadmin",
+                                    "domain":  "property",
+                                    "designation":  "employee",
+                                    "isLoggedIn":  true,
+                                    "isApproved":  true,
+                                    "createdAt":  "2026-01-21T12:47:41.769Z",
+                                    "id":  "6970caed7272527307bdafe2"
+                                },
+                                {
+                                    "_id":  "6971bbd9df381f2923748844",
+                                    "name":  "Admin One",
+                                    "email":  "admin1@gmail.com",
+                                    "phoneNumber":  "9876543210",
+                                    "role":  "admin",
+                                    "domain":  "property",
+                                    "designation":  "employee",
+                                    "employeeId":  "ADM001",
+                                    "isLoggedIn":  true,
+                                    "isApproved":  true,
+                                    "createdAt":  "2026-01-22T05:55:37.169Z",
+                                    "id":  "6971bbd9df381f2923748844"
+                                },
+                                {
+                                    "_id":  "6971bf78df381f292374884b",
+                                    "name":  "Teamlead Property",
+                                    "email":  "teamlead_property@gmail.com",
+                                    "phoneNumber":  "9000000001",
+                                    "role":  "teamlead",
+                                    "domain":  "property",
+                                    "designation":  "teamlead",
+                                    "employeeId":  "TL_PROP_001",
+                                    "isLoggedIn":  false,
+                                    "isApproved":  false,
+                                    "createdAt":  "2026-01-22T06:11:04.906Z",
+                                    "id":  "6971bf78df381f292374884b"
+                                },
+                                {
+                                    "_id":  "6971bf90df381f292374884e",
+                                    "name":  "Teamlead Finance",
+                                    "email":  "teamlead_finance@gmail.com",
+                                    "phoneNumber":  "9000000002",
+                                    "role":  "teamlead",
+                                    "domain":  "finance",
+                                    "designation":  "teamlead",
+                                    "employeeId":  "TL_FIN_001",
+                                    "isLoggedIn":  false,
+                                    "isApproved":  false,
+                                    "createdAt":  "2026-01-22T06:11:28.560Z",
+                                    "id":  "6971bf90df381f292374884e"
+                                },
+                                {
+                                    "_id":  "6971bfa0df381f2923748851",
+                                    "name":  "Employee Property",
+                                    "email":  "employee_property@gmail.com",
+                                    "phoneNumber":  "9000000003",
+                                    "role":  "employee",
+                                    "domain":  "property",
+                                    "designation":  "employee",
+                                    "employeeId":  "EMP_PROP_001",
+                                    "teamleadName":  "Teamlead Property",
+                                    "isLoggedIn":  false,
+                                    "isApproved":  false,
+                                    "createdAt":  "2026-01-22T06:11:44.820Z",
+                                    "id":  "6971bfa0df381f2923748851"
+                                },
+                                {
+                                    "_id":  "6971bfb2df381f2923748854",
+                                    "name":  "Employee Finance",
+                                    "email":  "employee_finance@gmail.com",
+                                    "phoneNumber":  "9000000004",
+                                    "role":  "employee",
+                                    "domain":  "finance",
+                                    "designation":  "employee",
+                                    "employeeId":  "EMP_FIN_001",
+                                    "teamleadName":  "Teamlead Finance",
+                                    "isLoggedIn":  false,
+                                    "isApproved":  false,
+                                    "createdAt":  "2026-01-22T06:12:02.342Z",
+                                    "id":  "6971bfb2df381f2923748854"
+                                },
+                                {
+                                    "_id":  "6971c23f186f286ed8946c9c",
+                                    "name":  "Teamlead Property Two",
+                                    "email":  "teamlead_property2@gmail.com",
+                                    "phoneNumber":  "9000000011",
+                                    "role":  "teamlead",
+                                    "domain":  "property",
+                                    "designation":  "teamlead",
+                                    "employeeId":  "TL_PROP_002",
+                                    "isLoggedIn":  false,
+                                    "isApproved":  false,
+                                    "createdAt":  "2026-01-22T06:22:55.424Z",
+                                    "id":  "6971c23f186f286ed8946c9c"
+                                }
+                            ]
+              },
+    "spendings":  {
+                      "success":  true,
+                      "meta":  {
+                                   "page":  1,
+                                   "limit":  10,
+                                   "total":  2,
+                                   "pages":  1
+                               },
+                      "data":  [
+                                   {
+                                       "_id":  "69786b7483577f8cb47f51d3",
+                                       "type":  "WhatsApp",
+                                       "amount":  12000,
+                                       "note":  "WhatsApp Lead Campaign",
+                                       "createdBy":  {
+                                                         "_id":  "6971bbd9df381f2923748844",
+                                                         "name":  "Admin One",
+                                                         "id":  "6971bbd9df381f2923748844"
+                                                     },
+                                       "createdAt":  "2026-01-27T13:08:28.826+05:30",
+                                       "updatedAt":  "2026-01-27T13:08:28.826+05:30",
+                                       "__v":  0,
+                                       "id":  "69786b7483577f8cb47f51d3"
+                                   },
+                                   {
+                                       "_id":  "69786aec83577f8cb47f51d0",
+                                       "type":  "Meta",
+                                       "amount":  20000,
+                                       "note":  "October Campaign",
+                                       "createdBy":  {
+                                                         "_id":  "6971bbd9df381f2923748844",
+                                                         "name":  "Admin One",
+                                                         "id":  "6971bbd9df381f2923748844"
+                                                     },
+                                       "createdAt":  "2026-01-27T13:06:12.352+05:30",
+                                       "updatedAt":  "2026-01-27T13:06:12.352+05:30",
+                                       "__v":  0,
+                                       "id":  "69786aec83577f8cb47f51d0"
+                                   }
+                               ]
+                  },
+    "tasknotes":  {
+                      "error":  "The remote server returned an error: (404) Not Found."
+                  },
+    "pleads":  {
+                   "success":  true,
+                   "message":  "Property leads fetched successfully",
+                   "meta":  {
+                                "page":  1,
+                                "limit":  10,
+                                "total":  2307,
+                                "totalPages":  231
+                            },
+                   "data":  [
+                                {
+                                    "_id":  "6989d486100e4499c4a68e1b",
+                                    "clientName":  "Client 388",
+                                    "contactNumber":  "9814046764",
+                                    "email":  "client388@gmail.com",
+                                    "budget":  "35 Lakh",
+                                    "location":  "Greater Noida",
+                                    "project":  "Sky Residency",
+                                    "source":  "Instagram",
+                                    "followUpDate":  "2026-02-17T18:04:30.750+05:30",
+                                    "status":  "Dead",
+                                    "propertyType":  "Residential",
+                                    "notes":  "Dashboard JSON seed data",
+                                    "remarks":  "Auto generated",
+                                    "createdBy":  {
+                                                      "_id":  "6971bbd9df381f2923748844",
+                                                      "name":  "Admin One",
+                                                      "email":  "admin1@gmail.com",
+                                                      "phoneNumber":  "9876543210",
+                                                      "role":  "admin",
+                                                      "employeeId":  "ADM001",
+                                                      "id":  "6971bbd9df381f2923748844"
+                                                  },
+                                    "teamLead":  {
+                                                     "_id":  "6971bf78df381f292374884b",
+                                                     "name":  "Teamlead Property",
+                                                     "email":  "teamlead_property@gmail.com",
+                                                     "phoneNumber":  "9000000001",
+                                                     "role":  "teamlead",
+                                                     "employeeId":  "TL_PROP_001",
+                                                     "id":  "6971bf78df381f292374884b"
+                                                 },
+                                    "relationshipManager":  {
+                                                                "_id":  "6971bfa0df381f2923748851",
+                                                                "name":  "Employee Property",
+                                                                "email":  "employee_property@gmail.com",
+                                                                "phoneNumber":  "9000000003",
+                                                                "role":  "employee",
+                                                                "employeeId":  "EMP_PROP_001",
+                                                                "id":  "6971bfa0df381f2923748851"
+                                                            },
+                                    "transferTo":  {
+                                                       "_id":  "6971bfa0df381f2923748851",
+                                                       "name":  "Employee Property",
+                                                       "email":  "employee_property@gmail.com",
+                                                       "phoneNumber":  "9000000003",
+                                                       "role":  "employee",
+                                                       "employeeId":  "EMP_PROP_001",
+                                                       "id":  "6971bfa0df381f2923748851"
+                                                   },
+                                    "transferDate":  "2026-02-09T19:04:30.750+05:30",
+                                    "createdAt":  "2026-02-09T18:04:30.750+05:30",
+                                    "updatedAt":  "2026-02-09T18:04:30.750+05:30",
+                                    "reminderSent":  true,
+                                    "id":  "6989d486100e4499c4a68e1b"
+                                },
+                                {
+                                    "_id":  "6989d486100e4499c4a68d59",
+                                    "clientName":  "Client 194",
+                                    "contactNumber":  "9966410819",
+                                    "email":  "client194@gmail.com",
+                                    "budget":  "112 Lakh",
+                                    "location":  "Greater Noida",
+                                    "project":  "Elite Homes",
+                                    "source":  "Google Ads",
+                                    "followUpDate":  "2026-02-23T18:04:30.750+05:30",
+                                    "status":  "Completed",
+                                    "propertyType":  "Commercial",
+                                    "notes":  "Dashboard JSON seed data",
+                                    "remarks":  "Auto generated",
+                                    "createdBy":  {
+                                                      "_id":  "6971bbd9df381f2923748844",
+                                                      "name":  "Admin One",
+                                                      "email":  "admin1@gmail.com",
+                                                      "phoneNumber":  "9876543210",
+                                                      "role":  "admin",
+                                                      "employeeId":  "ADM001",
+                                                      "id":  "6971bbd9df381f2923748844"
+                                                  },
+                                    "teamLead":  {
+                                                     "_id":  "6971bf78df381f292374884b",
+                                                     "name":  "Teamlead Property",
+                                                     "email":  "teamlead_property@gmail.com",
+                                                     "phoneNumber":  "9000000001",
+                                                     "role":  "teamlead",
+                                                     "employeeId":  "TL_PROP_001",
+                                                     "id":  "6971bf78df381f292374884b"
+                                                 },
+                                    "relationshipManager":  {
+                                                                "_id":  "6971bfa0df381f2923748851",
+                                                                "name":  "Employee Property",
+                                                                "email":  "employee_property@gmail.com",
+                                                                "phoneNumber":  "9000000003",
+                                                                "role":  "employee",
+                                                                "employeeId":  "EMP_PROP_001",
+                                                                "id":  "6971bfa0df381f2923748851"
+                                                            },
+                                    "transferTo":  {
+                                                       "_id":  "6971bfa0df381f2923748851",
+                                                       "name":  "Employee Property",
+                                                       "email":  "employee_property@gmail.com",
+                                                       "phoneNumber":  "9000000003",
+                                                       "role":  "employee",
+                                                       "employeeId":  "EMP_PROP_001",
+                                                       "id":  "6971bfa0df381f2923748851"
+                                                   },
+                                    "transferDate":  "2026-02-09T19:04:30.750+05:30",
+                                    "createdAt":  "2026-02-09T18:04:30.750+05:30",
+                                    "updatedAt":  "2026-02-09T18:04:30.750+05:30",
+                                    "reminderSent":  true,
+                                    "id":  "6989d486100e4499c4a68d59"
+                                },
+                                {
+                                    "_id":  "6989c3b3100e4499c4a68a05",
+                                    "clientName":  "Client 42",
+                                    "contactNumber":  "9497447929",
+                                    "email":  "client42@gmail.com",
+                                    "budget":  "53 Lakh",
+                                    "location":  "Noida Extension",
+                                    "project":  "Palm Residency",
+                                    "source":  "Referral",
+                                    "followUpDate":  "2026-02-16T16:52:10.940+05:30",
+                                    "status":  "Busy",
+                                    "propertyType":  "Residential",
+                                    "notes":  "Dashboard JSON seed data",
+                                    "remarks":  "Auto generated",
+                                    "createdBy":  {
+                                                      "_id":  "6971bbd9df381f2923748844",
+                                                      "name":  "Admin One",
+                                                      "email":  "admin1@gmail.com",
+                                                      "phoneNumber":  "9876543210",
+                                                      "role":  "admin",
+                                                      "employeeId":  "ADM001",
+                                                      "id":  "6971bbd9df381f2923748844"
+                                                  },
+                                    "teamLead":  {
+                                                     "_id":  "6971bf78df381f292374884b",
+                                                     "name":  "Teamlead Property",
+                                                     "email":  "teamlead_property@gmail.com",
+                                                     "phoneNumber":  "9000000001",
+                                                     "role":  "teamlead",
+                                                     "employeeId":  "TL_PROP_001",
+                                                     "id":  "6971bf78df381f292374884b"
+                                                 },
+                                    "relationshipManager":  {
+                                                                "_id":  "6971bfa0df381f2923748851",
+                                                                "name":  "Employee Property",
+                                                                "email":  "employee_property@gmail.com",
+                                                                "phoneNumber":  "9000000003",
+                                                                "role":  "employee",
+                                                                "employeeId":  "EMP_PROP_001",
+                                                                "id":  "6971bfa0df381f2923748851"
+                                                            },
+                                    "transferTo":  {
+                                                       "_id":  "6971bfa0df381f2923748851",
+                                                       "name":  "Employee Property",
+                                                       "email":  "employee_property@gmail.com",
+                                                       "phoneNumber":  "9000000003",
+                                                       "role":  "employee",
+                                                       "employeeId":  "EMP_PROP_001",
+                                                       "id":  "6971bfa0df381f2923748851"
+                                                   },
+                                    "transferDate":  "2026-02-09T17:52:10.940+05:30",
+                                    "createdAt":  "2026-02-09T16:52:10.940+05:30",
+                                    "updatedAt":  "2026-02-09T16:52:10.940+05:30",
+                                    "reminderSent":  false,
+                                    "id":  "6989c3b3100e4499c4a68a05"
+                                },
+                                {
+                                    "_id":  "6989c3b3100e4499c4a689ef",
+                                    "clientName":  "Client 20",
+                                    "contactNumber":  "9461713877",
+                                    "email":  "client20@gmail.com",
+                                    "budget":  "77 Lakh",
+                                    "location":  "Greater Noida",
+                                    "project":  "Green Valley",
+                                    "source":  "Referral",
+                                    "followUpDate":  "2026-02-20T16:52:10.940+05:30",
+                                    "status":  "Interested",
+                                    "propertyType":  "Commercial",
+                                    "notes":  "Dashboard JSON seed data",
+                                    "remarks":  "Auto generated",
+                                    "createdBy":  {
+                                                      "_id":  "6971bbd9df381f2923748844",
+                                                      "name":  "Admin One",
+                                                      "email":  "admin1@gmail.com",
+                                                      "phoneNumber":  "9876543210",
+                                                      "role":  "admin",
+                                                      "employeeId":  "ADM001",
+                                                      "id":  "6971bbd9df381f2923748844"
+                                                  },
+                                    "teamLead":  {
+                                                     "_id":  "6971bf78df381f292374884b",
+                                                     "name":  "Teamlead Property",
+                                                     "email":  "teamlead_property@gmail.com",
+                                                     "phoneNumber":  "9000000001",
+                                                     "role":  "teamlead",
+                                                     "employeeId":  "TL_PROP_001",
+                                                     "id":  "6971bf78df381f292374884b"
+                                                 },
+                                    "relationshipManager":  {
+                                                                "_id":  "6971bfa0df381f2923748851",
+                                                                "name":  "Employee Property",
+                                                                "email":  "employee_property@gmail.com",
+                                                                "phoneNumber":  "9000000003",
+                                                                "role":  "employee",
+                                                                "employeeId":  "EMP_PROP_001",
+                                                                "id":  "6971bfa0df381f2923748851"
+                                                            },
+                                    "transferTo":  {
+                                                       "_id":  "6971bfa0df381f2923748851",
+                                                       "name":  "Employee Property",
+                                                       "email":  "employee_property@gmail.com",
+                                                       "phoneNumber":  "9000000003",
+                                                       "role":  "employee",
+                                                       "employeeId":  "EMP_PROP_001",
+                                                       "id":  "6971bfa0df381f2923748851"
+                                                   },
+                                    "transferDate":  "2026-02-09T17:52:10.940+05:30",
+                                    "createdAt":  "2026-02-09T16:52:10.940+05:30",
+                                    "updatedAt":  "2026-02-09T16:52:10.940+05:30",
+                                    "reminderSent":  false,
+                                    "id":  "6989c3b3100e4499c4a689ef"
+                                },
+                                {
+                                    "_id":  "6989c3b3100e4499c4a689ed",
+                                    "clientName":  "Client 18",
+                                    "contactNumber":  "9916642302",
+                                    "email":  "client18@gmail.com",
+                                    "budget":  "115 Lakh",
+                                    "location":  "Ghaziabad",
+                                    "project":  "Elite Homes",
+                                    "source":  "Website",
+                                    "followUpDate":  "2026-02-24T16:52:10.940+05:30",
+                                    "status":  "Interested",
+                                    "propertyType":  "Commercial",
+                                    "notes":  "Dashboard JSON seed data",
+                                    "remarks":  "Auto generated",
+                                    "createdBy":  {
+                                                      "_id":  "6971bbd9df381f2923748844",
+                                                      "name":  "Admin One",
+                                                      "email":  "admin1@gmail.com",
+                                                      "phoneNumber":  "9876543210",
+                                                      "role":  "admin",
+                                                      "employeeId":  "ADM001",
+                                                      "id":  "6971bbd9df381f2923748844"
+                                                  },
+                                    "teamLead":  {
+                                                     "_id":  "6971bf78df381f292374884b",
+                                                     "name":  "Teamlead Property",
+                                                     "email":  "teamlead_property@gmail.com",
+                                                     "phoneNumber":  "9000000001",
+                                                     "role":  "teamlead",
+                                                     "employeeId":  "TL_PROP_001",
+                                                     "id":  "6971bf78df381f292374884b"
+                                                 },
+                                    "relationshipManager":  {
+                                                                "_id":  "6971bfa0df381f2923748851",
+                                                                "name":  "Employee Property",
+                                                                "email":  "employee_property@gmail.com",
+                                                                "phoneNumber":  "9000000003",
+                                                                "role":  "employee",
+                                                                "employeeId":  "EMP_PROP_001",
+                                                                "id":  "6971bfa0df381f2923748851"
+                                                            },
+                                    "transferTo":  {
+                                                       "_id":  "6971bfa0df381f2923748851",
+                                                       "name":  "Employee Property",
+                                                       "email":  "employee_property@gmail.com",
+                                                       "phoneNumber":  "9000000003",
+                                                       "role":  "employee",
+                                                       "employeeId":  "EMP_PROP_001",
+                                                       "id":  "6971bfa0df381f2923748851"
+                                                   },
+                                    "transferDate":  "2026-02-09T17:52:10.940+05:30",
+                                    "createdAt":  "2026-02-09T16:52:10.940+05:30",
+                                    "updatedAt":  "2026-02-09T16:52:10.940+05:30",
+                                    "reminderSent":  true,
+                                    "id":  "6989c3b3100e4499c4a689ed"
+                                },
+                                {
+                                    "_id":  "6989c3b3100e4499c4a68a0b",
+                                    "clientName":  "Client 48",
+                                    "contactNumber":  "9395182417",
+                                    "email":  "client48@gmail.com",
+                                    "budget":  "59 Lakh",
+                                    "location":  "Noida Extension",
+                                    "project":  "Sunshine Towers",
+                                    "source":  "Facebook",
+                                    "followUpDate":  "2026-02-10T15:52:10.940+05:30",
+                                    "status":  "Dead",
+                                    "propertyType":  "Residential",
+                                    "notes":  "Dashboard JSON seed data",
+                                    "remarks":  "Auto generated",
+                                    "createdBy":  {
+                                                      "_id":  "6971bbd9df381f2923748844",
+                                                      "name":  "Admin One",
+                                                      "email":  "admin1@gmail.com",
+                                                      "phoneNumber":  "9876543210",
+                                                      "role":  "admin",
+                                                      "employeeId":  "ADM001",
+                                                      "id":  "6971bbd9df381f2923748844"
+                                                  },
+                                    "teamLead":  {
+                                                     "_id":  "6971bf78df381f292374884b",
+                                                     "name":  "Teamlead Property",
+                                                     "email":  "teamlead_property@gmail.com",
+                                                     "phoneNumber":  "9000000001",
+                                                     "role":  "teamlead",
+                                                     "employeeId":  "TL_PROP_001",
+                                                     "id":  "6971bf78df381f292374884b"
+                                                 },
+                                    "relationshipManager":  {
+                                                                "_id":  "6971bfa0df381f2923748851",
+                                                                "name":  "Employee Property",
+                                                                "email":  "employee_property@gmail.com",
+                                                                "phoneNumber":  "9000000003",
+                                                                "role":  "employee",
+                                                                "employeeId":  "EMP_PROP_001",
+                                                                "id":  "6971bfa0df381f2923748851"
+                                                            },
+                                    "transferTo":  {
+                                                       "_id":  "6971bfa0df381f2923748851",
+                                                       "name":  "Employee Property",
+                                                       "email":  "employee_property@gmail.com",
+                                                       "phoneNumber":  "9000000003",
+                                                       "role":  "employee",
+                                                       "employeeId":  "EMP_PROP_001",
+                                                       "id":  "6971bfa0df381f2923748851"
+                                                   },
+                                    "transferDate":  "2026-02-09T16:52:10.940+05:30",
+                                    "createdAt":  "2026-02-09T15:52:10.940+05:30",
+                                    "updatedAt":  "2026-02-09T15:52:10.940+05:30",
+                                    "reminderSent":  true,
+                                    "id":  "6989c3b3100e4499c4a68a0b"
+                                },
+                                {
+                                    "_id":  "6989c3b3100e4499c4a689e2",
+                                    "clientName":  "Client 7",
+                                    "contactNumber":  "9707774322",
+                                    "email":  "client7@gmail.com",
+                                    "budget":  "73 Lakh",
+                                    "location":  "Noida Sector 50",
+                                    "project":  "Sunshine Towers",
+                                    "source":  "Instagram",
+                                    "followUpDate":  "2026-02-18T15:52:10.940+05:30",
+                                    "status":  "Busy",
+                                    "propertyType":  "Commercial",
+                                    "notes":  "Dashboard JSON seed data",
+                                    "remarks":  "Auto generated",
+                                    "createdBy":  {
+                                                      "_id":  "6971bbd9df381f2923748844",
+                                                      "name":  "Admin One",
+                                                      "email":  "admin1@gmail.com",
+                                                      "phoneNumber":  "9876543210",
+                                                      "role":  "admin",
+                                                      "employeeId":  "ADM001",
+                                                      "id":  "6971bbd9df381f2923748844"
+                                                  },
+                                    "teamLead":  {
+                                                     "_id":  "6971bf78df381f292374884b",
+                                                     "name":  "Teamlead Property",
+                                                     "email":  "teamlead_property@gmail.com",
+                                                     "phoneNumber":  "9000000001",
+                                                     "role":  "teamlead",
+                                                     "employeeId":  "TL_PROP_001",
+                                                     "id":  "6971bf78df381f292374884b"
+                                                 },
+                                    "relationshipManager":  {
+                                                                "_id":  "6971bfa0df381f2923748851",
+                                                                "name":  "Employee Property",
+                                                                "email":  "employee_property@gmail.com",
+                                                                "phoneNumber":  "9000000003",
+                                                                "role":  "employee",
+                                                                "employeeId":  "EMP_PROP_001",
+                                                                "id":  "6971bfa0df381f2923748851"
+                                                            },
+                                    "transferTo":  {
+                                                       "_id":  "6971bfa0df381f2923748851",
+                                                       "name":  "Employee Property",
+                                                       "email":  "employee_property@gmail.com",
+                                                       "phoneNumber":  "9000000003",
+                                                       "role":  "employee",
+                                                       "employeeId":  "EMP_PROP_001",
+                                                       "id":  "6971bfa0df381f2923748851"
+                                                   },
+                                    "transferDate":  "2026-02-09T16:52:10.940+05:30",
+                                    "createdAt":  "2026-02-09T15:52:10.940+05:30",
+                                    "updatedAt":  "2026-02-09T15:52:10.940+05:30",
+                                    "reminderSent":  false,
+                                    "id":  "6989c3b3100e4499c4a689e2"
+                                },
+                                {
+                                    "_id":  "6989c3b3100e4499c4a68a02",
+                                    "clientName":  "Client 39",
+                                    "contactNumber":  "9836343993",
+                                    "email":  "client39@gmail.com",
+                                    "budget":  "79 Lakh",
+                                    "location":  "Noida Sector 50",
+                                    "project":  "Sky Residency",
+                                    "source":  "Instagram",
+                                    "followUpDate":  "2026-02-24T14:52:10.940+05:30",
+                                    "status":  "Follow up",
+                                    "propertyType":  "Residential",
+                                    "notes":  "Dashboard JSON seed data",
+                                    "remarks":  "Auto generated",
+                                    "createdBy":  {
+                                                      "_id":  "6971bbd9df381f2923748844",
+                                                      "name":  "Admin One",
+                                                      "email":  "admin1@gmail.com",
+                                                      "phoneNumber":  "9876543210",
+                                                      "role":  "admin",
+                                                      "employeeId":  "ADM001",
+                                                      "id":  "6971bbd9df381f2923748844"
+                                                  },
+                                    "teamLead":  {
+                                                     "_id":  "6971bf78df381f292374884b",
+                                                     "name":  "Teamlead Property",
+                                                     "email":  "teamlead_property@gmail.com",
+                                                     "phoneNumber":  "9000000001",
+                                                     "role":  "teamlead",
+                                                     "employeeId":  "TL_PROP_001",
+                                                     "id":  "6971bf78df381f292374884b"
+                                                 },
+                                    "relationshipManager":  {
+                                                                "_id":  "6971bfa0df381f2923748851",
+                                                                "name":  "Employee Property",
+                                                                "email":  "employee_property@gmail.com",
+                                                                "phoneNumber":  "9000000003",
+                                                                "role":  "employee",
+                                                                "employeeId":  "EMP_PROP_001",
+                                                                "id":  "6971bfa0df381f2923748851"
+                                                            },
+                                    "transferTo":  {
+                                                       "_id":  "6971bfa0df381f2923748851",
+                                                       "name":  "Employee Property",
+                                                       "email":  "employee_property@gmail.com",
+                                                       "phoneNumber":  "9000000003",
+                                                       "role":  "employee",
+                                                       "employeeId":  "EMP_PROP_001",
+                                                       "id":  "6971bfa0df381f2923748851"
+                                                   },
+                                    "transferDate":  "2026-02-09T15:52:10.940+05:30",
+                                    "createdAt":  "2026-02-09T14:52:10.940+05:30",
+                                    "updatedAt":  "2026-02-09T14:52:10.940+05:30",
+                                    "reminderSent":  true,
+                                    "id":  "6989c3b3100e4499c4a68a02"
+                                },
+                                {
+                                    "_id":  "6989c3b3100e4499c4a689e5",
+                                    "clientName":  "Client 10",
+                                    "contactNumber":  "9160778426",
+                                    "email":  "client10@gmail.com",
+                                    "budget":  "47 Lakh",
+                                    "location":  "Ghaziabad",
+                                    "project":  "Sky Residency",
+                                    "source":  "Facebook",
+                                    "followUpDate":  "2026-02-15T14:52:10.940+05:30",
+                                    "status":  "Follow up",
+                                    "propertyType":  "Residential",
+                                    "notes":  "Dashboard JSON seed data",
+                                    "remarks":  "Auto generated",
+                                    "createdBy":  {
+                                                      "_id":  "6971bbd9df381f2923748844",
+                                                      "name":  "Admin One",
+                                                      "email":  "admin1@gmail.com",
+                                                      "phoneNumber":  "9876543210",
+                                                      "role":  "admin",
+                                                      "employeeId":  "ADM001",
+                                                      "id":  "6971bbd9df381f2923748844"
+                                                  },
+                                    "teamLead":  {
+                                                     "_id":  "6971bf78df381f292374884b",
+                                                     "name":  "Teamlead Property",
+                                                     "email":  "teamlead_property@gmail.com",
+                                                     "phoneNumber":  "9000000001",
+                                                     "role":  "teamlead",
+                                                     "employeeId":  "TL_PROP_001",
+                                                     "id":  "6971bf78df381f292374884b"
+                                                 },
+                                    "relationshipManager":  {
+                                                                "_id":  "6971bfa0df381f2923748851",
+                                                                "name":  "Employee Property",
+                                                                "email":  "employee_property@gmail.com",
+                                                                "phoneNumber":  "9000000003",
+                                                                "role":  "employee",
+                                                                "employeeId":  "EMP_PROP_001",
+                                                                "id":  "6971bfa0df381f2923748851"
+                                                            },
+                                    "transferTo":  {
+                                                       "_id":  "6971bfa0df381f2923748851",
+                                                       "name":  "Employee Property",
+                                                       "email":  "employee_property@gmail.com",
+                                                       "phoneNumber":  "9000000003",
+                                                       "role":  "employee",
+                                                       "employeeId":  "EMP_PROP_001",
+                                                       "id":  "6971bfa0df381f2923748851"
+                                                   },
+                                    "transferDate":  "2026-02-09T15:52:10.940+05:30",
+                                    "createdAt":  "2026-02-09T14:52:10.940+05:30",
+                                    "updatedAt":  "2026-02-09T14:52:10.940+05:30",
+                                    "reminderSent":  true,
+                                    "id":  "6989c3b3100e4499c4a689e5"
+                                },
+                                {
+                                    "_id":  "6989c3b3100e4499c4a689dd",
+                                    "clientName":  "Client 2",
+                                    "contactNumber":  "9283686342",
+                                    "email":  "client2@gmail.com",
+                                    "budget":  "98 Lakh",
+                                    "location":  "Noida Extension",
+                                    "project":  "Elite Homes",
+                                    "source":  "Website",
+                                    "followUpDate":  "2026-02-22T13:52:10.940+05:30",
+                                    "status":  "Completed",
+                                    "propertyType":  "Residential",
+                                    "notes":  "Dashboard JSON seed data",
+                                    "remarks":  "Auto generated",
+                                    "createdBy":  {
+                                                      "_id":  "6971bbd9df381f2923748844",
+                                                      "name":  "Admin One",
+                                                      "email":  "admin1@gmail.com",
+                                                      "phoneNumber":  "9876543210",
+                                                      "role":  "admin",
+                                                      "employeeId":  "ADM001",
+                                                      "id":  "6971bbd9df381f2923748844"
+                                                  },
+                                    "teamLead":  {
+                                                     "_id":  "6971bf78df381f292374884b",
+                                                     "name":  "Teamlead Property",
+                                                     "email":  "teamlead_property@gmail.com",
+                                                     "phoneNumber":  "9000000001",
+                                                     "role":  "teamlead",
+                                                     "employeeId":  "TL_PROP_001",
+                                                     "id":  "6971bf78df381f292374884b"
+                                                 },
+                                    "relationshipManager":  {
+                                                                "_id":  "6971bfa0df381f2923748851",
+                                                                "name":  "Employee Property",
+                                                                "email":  "employee_property@gmail.com",
+                                                                "phoneNumber":  "9000000003",
+                                                                "role":  "employee",
+                                                                "employeeId":  "EMP_PROP_001",
+                                                                "id":  "6971bfa0df381f2923748851"
+                                                            },
+                                    "transferTo":  {
+                                                       "_id":  "6971bfa0df381f2923748851",
+                                                       "name":  "Employee Property",
+                                                       "email":  "employee_property@gmail.com",
+                                                       "phoneNumber":  "9000000003",
+                                                       "role":  "employee",
+                                                       "employeeId":  "EMP_PROP_001",
+                                                       "id":  "6971bfa0df381f2923748851"
+                                                   },
+                                    "transferDate":  "2026-02-09T14:52:10.940+05:30",
+                                    "createdAt":  "2026-02-09T13:52:10.940+05:30",
+                                    "updatedAt":  "2026-02-09T13:52:10.940+05:30",
+                                    "reminderSent":  false,
+                                    "id":  "6989c3b3100e4499c4a689dd"
+                                }
+                            ]
+               },
+    "fleads":  {
+                   "success":  true,
+                   "message":  "Finance leads fetched",
+                   "meta":  {
+                                "page":  1,
+                                "limit":  10,
+                                "total":  7,
+                                "totalPages":  1
+                            },
+                   "data":  [
+                                {
+                                    "_id":  "6978a6303e764d4ac1e977a6",
+                                    "clientName":  "Suresh Kumar",
+                                    "contactNumber":  "9000000066",
+                                    "email":  "suresh@gmail.com",
+                                    "reminderSent":  true,
+                                    "loanRequirement":  "Business Loan - 20 Lakh",
+                                    "location":  "Faridabad",
+                                    "project":  "Omaxe World",
+                                    "source":  "Website",
+                                    "followUpDate":  "2026-01-27T17:25:00.000+05:30",
+                                    "status":  "Follow up",
+                                    "notes":  "Wants meeting",
+                                    "remarks":  "Call at 5:25",
+                                    "createdBy":  {
+                                                      "_id":  "6971bbd9df381f2923748844",
+                                                      "name":  "Admin One",
+                                                      "email":  "admin1@gmail.com",
+                                                      "phoneNumber":  "9876543210",
+                                                      "role":  "admin",
+                                                      "employeeId":  "ADM001",
+                                                      "id":  "6971bbd9df381f2923748844"
+                                                  },
+                                    "teamLead":  {
+                                                     "_id":  "6971bf90df381f292374884e",
+                                                     "name":  "Teamlead Finance",
+                                                     "email":  "teamlead_finance@gmail.com",
+                                                     "phoneNumber":  "9000000002",
+                                                     "role":  "teamlead",
+                                                     "employeeId":  "TL_FIN_001",
+                                                     "id":  "6971bf90df381f292374884e"
+                                                 },
+                                    "relationshipManager":  {
+                                                                "_id":  "6971bfb2df381f2923748854",
+                                                                "name":  "Employee Finance",
+                                                                "email":  "employee_finance@gmail.com",
+                                                                "phoneNumber":  "9000000004",
+                                                                "role":  "employee",
+                                                                "employeeId":  "EMP_FIN_001",
+                                                                "id":  "6971bfb2df381f2923748854"
+                                                            },
+                                    "transferTo":  {
+                                                       "_id":  "6971bf90df381f292374884e",
+                                                       "name":  "Teamlead Finance",
+                                                       "email":  "teamlead_finance@gmail.com",
+                                                       "phoneNumber":  "9000000002",
+                                                       "role":  "teamlead",
+                                                       "employeeId":  "TL_FIN_001",
+                                                       "id":  "6971bf90df381f292374884e"
+                                                   },
+                                    "transferDate":  "2026-01-27T17:19:04.006+05:30",
+                                    "createdAt":  "2026-01-27T17:19:04.007+05:30",
+                                    "updatedAt":  "2026-01-27T17:24:00.376+05:30",
+                                    "__v":  0,
+                                    "id":  "6978a6303e764d4ac1e977a6"
+                                },
+                                {
+                                    "_id":  "6978a61b3e764d4ac1e97783",
+                                    "clientName":  "Neha Gupta",
+                                    "contactNumber":  "9000000077",
+                                    "email":  "neha@gmail.com",
+                                    "reminderSent":  true,
+                                    "loanRequirement":  "Personal Loan - 5 Lakh",
+                                    "location":  "Ghaziabad",
+                                    "project":  "Wave City",
+                                    "source":  "Instagram",
+                                    "followUpDate":  "2026-01-27T17:22:00.000+05:30",
+                                    "status":  "Follow up",
+                                    "notes":  "Prefers WhatsApp",
+                                    "remarks":  "Call at 5:22",
+                                    "createdBy":  {
+                                                      "_id":  "6971bbd9df381f2923748844",
+                                                      "name":  "Admin One",
+                                                      "email":  "admin1@gmail.com",
+                                                      "phoneNumber":  "9876543210",
+                                                      "role":  "admin",
+                                                      "employeeId":  "ADM001",
+                                                      "id":  "6971bbd9df381f2923748844"
+                                                  },
+                                    "teamLead":  {
+                                                     "_id":  "6971bf90df381f292374884e",
+                                                     "name":  "Teamlead Finance",
+                                                     "email":  "teamlead_finance@gmail.com",
+                                                     "phoneNumber":  "9000000002",
+                                                     "role":  "teamlead",
+                                                     "employeeId":  "TL_FIN_001",
+                                                     "id":  "6971bf90df381f292374884e"
+                                                 },
+                                    "relationshipManager":  {
+                                                                "_id":  "6971bfb2df381f2923748854",
+                                                                "name":  "Employee Finance",
+                                                                "email":  "employee_finance@gmail.com",
+                                                                "phoneNumber":  "9000000004",
+                                                                "role":  "employee",
+                                                                "employeeId":  "EMP_FIN_001",
+                                                                "id":  "6971bfb2df381f2923748854"
+                                                            },
+                                    "transferTo":  {
+                                                       "_id":  "6971bf90df381f292374884e",
+                                                       "name":  "Teamlead Finance",
+                                                       "email":  "teamlead_finance@gmail.com",
+                                                       "phoneNumber":  "9000000002",
+                                                       "role":  "teamlead",
+                                                       "employeeId":  "TL_FIN_001",
+                                                       "id":  "6971bf90df381f292374884e"
+                                                   },
+                                    "transferDate":  "2026-01-27T17:18:43.757+05:30",
+                                    "createdAt":  "2026-01-27T17:18:43.757+05:30",
+                                    "updatedAt":  "2026-01-27T17:21:00.315+05:30",
+                                    "__v":  0,
+                                    "id":  "6978a61b3e764d4ac1e97783"
+                                },
+                                {
+                                    "_id":  "6978a60e3e764d4ac1e97777",
+                                    "clientName":  "Amit Verma",
+                                    "contactNumber":  "9000000088",
+                                    "email":  "amit@gmail.com",
+                                    "reminderSent":  true,
+                                    "loanRequirement":  "Car Loan - 12 Lakh",
+                                    "location":  "Delhi",
+                                    "project":  "DLF Phase 3",
+                                    "source":  "Google Ads",
+                                    "followUpDate":  "2026-01-27T17:20:00.000+05:30",
+                                    "status":  "Follow up",
+                                    "notes":  "Needs quick approval",
+                                    "remarks":  "Call at 5:20",
+                                    "createdBy":  {
+                                                      "_id":  "6971bbd9df381f2923748844",
+                                                      "name":  "Admin One",
+                                                      "email":  "admin1@gmail.com",
+                                                      "phoneNumber":  "9876543210",
+                                                      "role":  "admin",
+                                                      "employeeId":  "ADM001",
+                                                      "id":  "6971bbd9df381f2923748844"
+                                                  },
+                                    "teamLead":  {
+                                                     "_id":  "6971bf90df381f292374884e",
+                                                     "name":  "Teamlead Finance",
+                                                     "email":  "teamlead_finance@gmail.com",
+                                                     "phoneNumber":  "9000000002",
+                                                     "role":  "teamlead",
+                                                     "employeeId":  "TL_FIN_001",
+                                                     "id":  "6971bf90df381f292374884e"
+                                                 },
+                                    "relationshipManager":  {
+                                                                "_id":  "6971bfb2df381f2923748854",
+                                                                "name":  "Employee Finance",
+                                                                "email":  "employee_finance@gmail.com",
+                                                                "phoneNumber":  "9000000004",
+                                                                "role":  "employee",
+                                                                "employeeId":  "EMP_FIN_001",
+                                                                "id":  "6971bfb2df381f2923748854"
+                                                            },
+                                    "transferTo":  {
+                                                       "_id":  "6971bf90df381f292374884e",
+                                                       "name":  "Teamlead Finance",
+                                                       "email":  "teamlead_finance@gmail.com",
+                                                       "phoneNumber":  "9000000002",
+                                                       "role":  "teamlead",
+                                                       "employeeId":  "TL_FIN_001",
+                                                       "id":  "6971bf90df381f292374884e"
+                                                   },
+                                    "transferDate":  "2026-01-27T17:18:30.506+05:30",
+                                    "createdAt":  "2026-01-27T17:18:30.506+05:30",
+                                    "updatedAt":  "2026-01-27T17:19:00.519+05:30",
+                                    "__v":  0,
+                                    "id":  "6978a60e3e764d4ac1e97777"
+                                },
+                                {
+                                    "_id":  "6978a5fc3e764d4ac1e9776b",
+                                    "clientName":  "Amit Verma",
+                                    "contactNumber":  "9000000088",
+                                    "email":  "amit@gmail.com",
+                                    "reminderSent":  true,
+                                    "loanRequirement":  "Car Loan - 12 Lakh",
+                                    "location":  "Delhi",
+                                    "project":  "DLF Phase 3",
+                                    "source":  "Google Ads",
+                                    "followUpDate":  "2026-01-27T17:20:00.000+05:30",
+                                    "status":  "Follow up",
+                                    "notes":  "Needs quick approval",
+                                    "remarks":  "Call at 5:20",
+                                    "createdBy":  {
+                                                      "_id":  "6971bbd9df381f2923748844",
+                                                      "name":  "Admin One",
+                                                      "email":  "admin1@gmail.com",
+                                                      "phoneNumber":  "9876543210",
+                                                      "role":  "admin",
+                                                      "employeeId":  "ADM001",
+                                                      "id":  "6971bbd9df381f2923748844"
+                                                  },
+                                    "teamLead":  {
+                                                     "_id":  "6971bf90df381f292374884e",
+                                                     "name":  "Teamlead Finance",
+                                                     "email":  "teamlead_finance@gmail.com",
+                                                     "phoneNumber":  "9000000002",
+                                                     "role":  "teamlead",
+                                                     "employeeId":  "TL_FIN_001",
+                                                     "id":  "6971bf90df381f292374884e"
+                                                 },
+                                    "relationshipManager":  {
+                                                                "_id":  "6971bfb2df381f2923748854",
+                                                                "name":  "Employee Finance",
+                                                                "email":  "employee_finance@gmail.com",
+                                                                "phoneNumber":  "9000000004",
+                                                                "role":  "employee",
+                                                                "employeeId":  "EMP_FIN_001",
+                                                                "id":  "6971bfb2df381f2923748854"
+                                                            },
+                                    "transferTo":  {
+                                                       "_id":  "6971bf90df381f292374884e",
+                                                       "name":  "Teamlead Finance",
+                                                       "email":  "teamlead_finance@gmail.com",
+                                                       "phoneNumber":  "9000000002",
+                                                       "role":  "teamlead",
+                                                       "employeeId":  "TL_FIN_001",
+                                                       "id":  "6971bf90df381f292374884e"
+                                                   },
+                                    "transferDate":  "2026-01-27T17:18:12.366+05:30",
+                                    "createdAt":  "2026-01-27T17:18:12.367+05:30",
+                                    "updatedAt":  "2026-01-27T17:19:00.326+05:30",
+                                    "__v":  0,
+                                    "id":  "6978a5fc3e764d4ac1e9776b"
+                                },
+                                {
+                                    "_id":  "6978a5ed3e764d4ac1e97751",
+                                    "clientName":  "Rohit Sharma",
+                                    "contactNumber":  "9000000099",
+                                    "email":  "rohit@gmail.com",
+                                    "reminderSent":  true,
+                                    "loanRequirement":  "Home Loan - 50 Lakh",
+                                    "location":  "Noida",
+                                    "project":  "Jaypee Greens",
+                                    "source":  "Facebook",
+                                    "followUpDate":  "2026-01-27T17:18:00.000+05:30",
+                                    "status":  "Follow up",
+                                    "notes":  "Interested in low EMI",
+                                    "remarks":  "Call at 5:18",
+                                    "createdBy":  {
+                                                      "_id":  "6971bbd9df381f2923748844",
+                                                      "name":  "Admin One",
+                                                      "email":  "admin1@gmail.com",
+                                                      "phoneNumber":  "9876543210",
+                                                      "role":  "admin",
+                                                      "employeeId":  "ADM001",
+                                                      "id":  "6971bbd9df381f2923748844"
+                                                  },
+                                    "teamLead":  {
+                                                     "_id":  "6971bf90df381f292374884e",
+                                                     "name":  "Teamlead Finance",
+                                                     "email":  "teamlead_finance@gmail.com",
+                                                     "phoneNumber":  "9000000002",
+                                                     "role":  "teamlead",
+                                                     "employeeId":  "TL_FIN_001",
+                                                     "id":  "6971bf90df381f292374884e"
+                                                 },
+                                    "relationshipManager":  {
+                                                                "_id":  "6971bfb2df381f2923748854",
+                                                                "name":  "Employee Finance",
+                                                                "email":  "employee_finance@gmail.com",
+                                                                "phoneNumber":  "9000000004",
+                                                                "role":  "employee",
+                                                                "employeeId":  "EMP_FIN_001",
+                                                                "id":  "6971bfb2df381f2923748854"
+                                                            },
+                                    "transferTo":  {
+                                                       "_id":  "6971bf90df381f292374884e",
+                                                       "name":  "Teamlead Finance",
+                                                       "email":  "teamlead_finance@gmail.com",
+                                                       "phoneNumber":  "9000000002",
+                                                       "role":  "teamlead",
+                                                       "employeeId":  "TL_FIN_001",
+                                                       "id":  "6971bf90df381f292374884e"
+                                                   },
+                                    "transferDate":  "2026-01-27T17:17:57.823+05:30",
+                                    "createdAt":  "2026-01-27T17:17:57.830+05:30",
+                                    "updatedAt":  "2026-01-27T17:18:00.324+05:30",
+                                    "__v":  0,
+                                    "id":  "6978a5ed3e764d4ac1e97751"
+                                },
+                                {
+                                    "_id":  "697321cd98d3663a4b06f0e6",
+                                    "clientName":  "Rohit Sharma",
+                                    "contactNumber":  "9000000099",
+                                    "email":  "rohit@gmail.com",
+                                    "loanRequirement":  "Home Loan - 50 Lakh",
+                                    "location":  "Noida",
+                                    "project":  "Jaypee Greens",
+                                    "source":  "Facebook",
+                                    "followUpDate":  "2026-01-25T05:30:00.000+05:30",
+                                    "status":  "Follow up",
+                                    "notes":  "Client wants low ROI",
+                                    "remarks":  "Call in evening",
+                                    "createdBy":  {
+                                                      "_id":  "6971bbd9df381f2923748844",
+                                                      "name":  "Admin One",
+                                                      "email":  "admin1@gmail.com",
+                                                      "phoneNumber":  "9876543210",
+                                                      "role":  "admin",
+                                                      "employeeId":  "ADM001",
+                                                      "id":  "6971bbd9df381f2923748844"
+                                                  },
+                                    "teamLead":  {
+                                                     "_id":  "6971bf90df381f292374884e",
+                                                     "name":  "Teamlead Finance",
+                                                     "email":  "teamlead_finance@gmail.com",
+                                                     "phoneNumber":  "9000000002",
+                                                     "role":  "teamlead",
+                                                     "employeeId":  "TL_FIN_001",
+                                                     "id":  "6971bf90df381f292374884e"
+                                                 },
+                                    "relationshipManager":  {
+                                                                "_id":  "6971bfb2df381f2923748854",
+                                                                "name":  "Employee Finance",
+                                                                "email":  "employee_finance@gmail.com",
+                                                                "phoneNumber":  "9000000004",
+                                                                "role":  "employee",
+                                                                "employeeId":  "EMP_FIN_001",
+                                                                "id":  "6971bfb2df381f2923748854"
+                                                            },
+                                    "transferTo":  {
+                                                       "_id":  "6971bf90df381f292374884e",
+                                                       "name":  "Teamlead Finance",
+                                                       "email":  "teamlead_finance@gmail.com",
+                                                       "phoneNumber":  "9000000002",
+                                                       "role":  "teamlead",
+                                                       "employeeId":  "TL_FIN_001",
+                                                       "id":  "6971bf90df381f292374884e"
+                                                   },
+                                    "transferDate":  "2026-01-23T12:52:53.583+05:30",
+                                    "createdAt":  "2026-01-23T12:52:53.585+05:30",
+                                    "updatedAt":  "2026-02-06T13:22:00.407+05:30",
+                                    "__v":  0,
+                                    "reminderSent":  true,
+                                    "id":  "697321cd98d3663a4b06f0e6"
+                                },
+                                {
+                                    "_id":  "6973210998d3663a4b06f0db",
+                                    "clientName":  "Rohit Sharma",
+                                    "contactNumber":  "9000000099",
+                                    "email":  "rohit@gmail.com",
+                                    "loanRequirement":  "Home Loan - 50 Lakh",
+                                    "location":  "Noida",
+                                    "project":  "Jaypee Greens",
+                                    "source":  "Facebook",
+                                    "followUpDate":  "2026-01-25T05:30:00.000+05:30",
+                                    "status":  "Follow up",
+                                    "notes":  "Client wants low ROI",
+                                    "remarks":  "Call in evening",
+                                    "createdBy":  {
+                                                      "_id":  "6971bbd9df381f2923748844",
+                                                      "name":  "Admin One",
+                                                      "email":  "admin1@gmail.com",
+                                                      "phoneNumber":  "9876543210",
+                                                      "role":  "admin",
+                                                      "employeeId":  "ADM001",
+                                                      "id":  "6971bbd9df381f2923748844"
+                                                  },
+                                    "teamLead":  {
+                                                     "_id":  "6971bf90df381f292374884e",
+                                                     "name":  "Teamlead Finance",
+                                                     "email":  "teamlead_finance@gmail.com",
+                                                     "phoneNumber":  "9000000002",
+                                                     "role":  "teamlead",
+                                                     "employeeId":  "TL_FIN_001",
+                                                     "id":  "6971bf90df381f292374884e"
+                                                 },
+                                    "relationshipManager":  {
+                                                                "_id":  "6971bfb2df381f2923748854",
+                                                                "name":  "Employee Finance",
+                                                                "email":  "employee_finance@gmail.com",
+                                                                "phoneNumber":  "9000000004",
+                                                                "role":  "employee",
+                                                                "employeeId":  "EMP_FIN_001",
+                                                                "id":  "6971bfb2df381f2923748854"
+                                                            },
+                                    "transferTo":  null,
+                                    "transferDate":  null,
+                                    "createdAt":  "2026-01-23T12:49:37.734+05:30",
+                                    "updatedAt":  "2026-02-06T13:22:00.407+05:30",
+                                    "__v":  0,
+                                    "reminderSent":  true,
+                                    "id":  "6973210998d3663a4b06f0db"
+                                }
+                            ]
+               }
+}
