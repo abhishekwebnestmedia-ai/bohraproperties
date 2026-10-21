@@ -2,7 +2,7 @@
 
 ## Base URL
 ```
-https://backend.bohraproperty.com/api
+https://darkorchid-kudu-454380.hostingersite.com/api
 ```
 
 ## Authentication
@@ -21,11 +21,11 @@ Get token from login response and use it in all subsequent requests.
 Create your JWT token here first!
 
 ```bash
-curl --location 'https://backend.bohraproperty.com/api/auth/login' \
+curl --location 'https://darkorchid-kudu-454380.hostingersite.com/api/auth/login' \
   --header 'Content-Type: application/json' \
   --data '{
-    "email": "admin@bohra.com",
-    "password": "password123"
+    "email": "YOUR_SUPERADMIN_EMAIL",
+    "password": "YOUR_SUPERADMIN_PASSWORD"
   }'
 ```
 
@@ -38,9 +38,9 @@ curl --location 'https://backend.bohraproperty.com/api/auth/login' \
   "user": {
     "_id": "userId",
     "name": "Admin User",
-    "email": "admin@bohra.com",
+    "email": "YOUR_SUPERADMIN_EMAIL",
     "role": "admin",
-    "phoneNumber": "password123"
+    "phoneNumber": "9876543210"
   }
 }
 ```
@@ -55,7 +55,7 @@ Authorization: Bearer <token>
 ## 2. LOGOUT
 
 ```bash
-curl --location --request POST 'https://backend.bohraproperty.com/api/auth/logout' \
+curl --location --request POST 'https://darkorchid-kudu-454380.hostingersite.com/api/auth/logout' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN'
 ```
 
@@ -64,7 +64,7 @@ curl --location --request POST 'https://backend.bohraproperty.com/api/auth/logou
 ## 3. REGISTER USER (Superadmin/Admin only)
 
 ```bash
-curl --location 'https://backend.bohraproperty.com/api/auth/register' \
+curl --location 'https://darkorchid-kudu-454380.hostingersite.com/api/auth/register' \
   --header 'Content-Type: application/json' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN' \
   --data '{
@@ -83,7 +83,7 @@ curl --location 'https://backend.bohraproperty.com/api/auth/register' \
 
 **For Employee (created by Admin):**
 ```bash
-curl --location 'https://backend.bohraproperty.com/api/auth/register' \
+curl --location 'https://darkorchid-kudu-454380.hostingersite.com/api/auth/register' \
   --header 'Content-Type: application/json' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN' \
   --data '{
@@ -106,7 +106,7 @@ curl --location 'https://backend.bohraproperty.com/api/auth/register' \
 ## 4. GET ALL USERS (Admin/Superadmin only)
 
 ```bash
-curl --location 'https://backend.bohraproperty.com/api/auth/users' \
+curl --location 'https://darkorchid-kudu-454380.hostingersite.com/api/auth/users' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN'
 ```
 
@@ -115,7 +115,7 @@ curl --location 'https://backend.bohraproperty.com/api/auth/users' \
 ## 5. CHANGE USER ROLE (Superadmin only)
 
 ```bash
-curl --location --request PUT 'https://backend.bohraproperty.com/api/auth/change-role/USER_ID_HERE' \
+curl --location --request PUT 'https://darkorchid-kudu-454380.hostingersite.com/api/auth/change-role/USER_ID_HERE' \
   --header 'Content-Type: application/json' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN' \
   --data '{
@@ -128,7 +128,7 @@ curl --location --request PUT 'https://backend.bohraproperty.com/api/auth/change
 ## 6. DELETE USER (Admin/Superadmin only)
 
 ```bash
-curl --location --request DELETE 'https://backend.bohraproperty.com/api/auth/delete-user/USER_ID_HERE' \
+curl --location --request DELETE 'https://darkorchid-kudu-454380.hostingersite.com/api/auth/delete-user/USER_ID_HERE' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN'
 ```
 
@@ -137,7 +137,7 @@ curl --location --request DELETE 'https://backend.bohraproperty.com/api/auth/del
 ## 7. FORGOT PASSWORD
 
 ```bash
-curl --location 'https://backend.bohraproperty.com/api/auth/forgot-password' \
+curl --location 'https://darkorchid-kudu-454380.hostingersite.com/api/auth/forgot-password' \
   --header 'Content-Type: application/json' \
   --data '{
     "email": "user@bohra.com"
@@ -149,7 +149,7 @@ curl --location 'https://backend.bohraproperty.com/api/auth/forgot-password' \
 ## 8. RESET PASSWORD
 
 ```bash
-curl --location 'https://backend.bohraproperty.com/api/auth/reset-password' \
+curl --location 'https://darkorchid-kudu-454380.hostingersite.com/api/auth/reset-password' \
   --header 'Content-Type: application/json' \
   --data '{
     "token": "RESET_TOKEN_FROM_EMAIL",
@@ -163,7 +163,7 @@ curl --location 'https://backend.bohraproperty.com/api/auth/reset-password' \
 ## 9. APPROVE USER (Via Email Link - No Auth Required)
 
 ```bash
-curl --location 'https://backend.bohraproperty.com/api/auth/approve-user/APPROVAL_TOKEN_FROM_EMAIL'
+curl --location 'https://darkorchid-kudu-454380.hostingersite.com/api/auth/approve-user/APPROVAL_TOKEN_FROM_EMAIL'
 ```
 
 ---
@@ -173,7 +173,7 @@ curl --location 'https://backend.bohraproperty.com/api/auth/approve-user/APPROVA
 ## 1. CREATE PROPERTY LEAD
 
 ```bash
-curl --location 'https://backend.bohraproperty.com/api/pleads' \
+curl --location 'https://darkorchid-kudu-454380.hostingersite.com/api/pleads' \
   --header 'Content-Type: application/json' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN' \
   --data '{
@@ -196,13 +196,13 @@ curl --location 'https://backend.bohraproperty.com/api/pleads' \
 ## 2. GET ALL PROPERTY LEADS
 
 ```bash
-curl --location 'https://backend.bohraproperty.com/api/pleads' \
+curl --location 'https://darkorchid-kudu-454380.hostingersite.com/api/pleads' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN'
 ```
 
 **With Pagination & Filtering:**
 ```bash
-curl --location 'https://backend.bohraproperty.com/api/pleads?page=1&limit=20&status=Follow%20up&search=Rajesh' \
+curl --location 'https://darkorchid-kudu-454380.hostingersite.com/api/pleads?page=1&limit=20&status=Follow%20up&search=Rajesh' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN'
 ```
 
@@ -211,7 +211,7 @@ curl --location 'https://backend.bohraproperty.com/api/pleads?page=1&limit=20&st
 ## 3. GET PROPERTY LEAD BY ID
 
 ```bash
-curl --location 'https://backend.bohraproperty.com/api/pleads/LEAD_ID' \
+curl --location 'https://darkorchid-kudu-454380.hostingersite.com/api/pleads/LEAD_ID' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN'
 ```
 
@@ -220,7 +220,7 @@ curl --location 'https://backend.bohraproperty.com/api/pleads/LEAD_ID' \
 ## 4. UPDATE PROPERTY LEAD
 
 ```bash
-curl --location --request PUT 'https://backend.bohraproperty.com/api/pleads/LEAD_ID' \
+curl --location --request PUT 'https://darkorchid-kudu-454380.hostingersite.com/api/pleads/LEAD_ID' \
   --header 'Content-Type: application/json' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN' \
   --data '{
@@ -236,7 +236,7 @@ curl --location --request PUT 'https://backend.bohraproperty.com/api/pleads/LEAD
 ## 5. UPDATE PROPERTY LEAD STATUS
 
 ```bash
-curl --location --request PATCH 'https://backend.bohraproperty.com/api/pleads/LEAD_ID/status' \
+curl --location --request PATCH 'https://darkorchid-kudu-454380.hostingersite.com/api/pleads/LEAD_ID/status' \
   --header 'Content-Type: application/json' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN' \
   --data '{
@@ -251,7 +251,7 @@ curl --location --request PATCH 'https://backend.bohraproperty.com/api/pleads/LE
 ## 6. UPDATE PROPERTY LEAD FOLLOW-UP DATE
 
 ```bash
-curl --location --request PATCH 'https://backend.bohraproperty.com/api/pleads/LEAD_ID/followup' \
+curl --location --request PATCH 'https://darkorchid-kudu-454380.hostingersite.com/api/pleads/LEAD_ID/followup' \
   --header 'Content-Type: application/json' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN' \
   --data '{
@@ -264,7 +264,7 @@ curl --location --request PATCH 'https://backend.bohraproperty.com/api/pleads/LE
 ## 7. TRANSFER PROPERTY LEAD
 
 ```bash
-curl --location --request PATCH 'https://backend.bohraproperty.com/api/pleads/LEAD_ID/transfer' \
+curl --location --request PATCH 'https://darkorchid-kudu-454380.hostingersite.com/api/pleads/LEAD_ID/transfer' \
   --header 'Content-Type: application/json' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN' \
   --data '{
@@ -274,7 +274,7 @@ curl --location --request PATCH 'https://backend.bohraproperty.com/api/pleads/LE
 
 **Or use employee name:**
 ```bash
-curl --location --request PATCH 'https://backend.bohraproperty.com/api/pleads/LEAD_ID/transfer' \
+curl --location --request PATCH 'https://darkorchid-kudu-454380.hostingersite.com/api/pleads/LEAD_ID/transfer' \
   --header 'Content-Type: application/json' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN' \
   --data '{
@@ -287,7 +287,7 @@ curl --location --request PATCH 'https://backend.bohraproperty.com/api/pleads/LE
 ## 8. DELETE PROPERTY LEAD
 
 ```bash
-curl --location --request DELETE 'https://backend.bohraproperty.com/api/pleads/LEAD_ID' \
+curl --location --request DELETE 'https://darkorchid-kudu-454380.hostingersite.com/api/pleads/LEAD_ID' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN'
 ```
 
@@ -296,7 +296,7 @@ curl --location --request DELETE 'https://backend.bohraproperty.com/api/pleads/L
 ## 9. GET PROPERTY LEAD HISTORY
 
 ```bash
-curl --location 'https://backend.bohraproperty.com/api/pleads/LEAD_ID/history' \
+curl --location 'https://darkorchid-kudu-454380.hostingersite.com/api/pleads/LEAD_ID/history' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN'
 ```
 
@@ -326,7 +326,7 @@ queries  params  for this api
 ## 11. BULK UPLOAD PROPERTY LEADS (CSV/Excel)
 
 ```bash
-curl --location 'https://backend.bohraproperty.com/api/pleads/bulk-upload' \
+curl --location 'https://darkorchid-kudu-454380.hostingersite.com/api/pleads/bulk-upload' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN' \
   --form 'file=@"/path/to/your/file.xlsx"'
 ```
@@ -349,7 +349,7 @@ curl --location 'https://backend.bohraproperty.com/api/pleads/bulk-upload' \
 ## 12. BULK TRANSFER PROPERTY LEADS
 
 ```bash
-curl --location --request PATCH 'https://backend.bohraproperty.com/api/pleads/bulk-transfer' \
+curl --location --request PATCH 'https://darkorchid-kudu-454380.hostingersite.com/api/pleads/bulk-transfer' \
   --header 'Content-Type: application/json' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN' \
   --data '{
@@ -365,7 +365,7 @@ curl --location --request PATCH 'https://backend.bohraproperty.com/api/pleads/bu
 ## 1. CREATE FINANCE LEAD
 
 ```bash
-curl --location 'https://backend.bohraproperty.com/api/fleads' \
+curl --location 'https://darkorchid-kudu-454380.hostingersite.com/api/fleads' \
   --header 'Content-Type: application/json' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN' \
   --data '{
@@ -388,13 +388,13 @@ curl --location 'https://backend.bohraproperty.com/api/fleads' \
 ## 2. GET ALL FINANCE LEADS
 
 ```bash
-curl --location 'https://backend.bohraproperty.com/api/fleads' \
+curl --location 'https://darkorchid-kudu-454380.hostingersite.com/api/fleads' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN'
 ```
 
 **With Pagination & Filtering:**
 ```bash
-curl --location 'https://backend.bohraproperty.com/api/fleads?page=1&limit=20&status=Interested&search=Abhisheka' \
+curl --location 'https://darkorchid-kudu-454380.hostingersite.com/api/fleads?page=1&limit=20&status=Interested&search=Abhisheka' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN'
 ```
 
@@ -403,7 +403,7 @@ curl --location 'https://backend.bohraproperty.com/api/fleads?page=1&limit=20&st
 ## 3. GET FINANCE LEAD BY ID
 
 ```bash
-curl --location 'https://backend.bohraproperty.com/api/fleads/LEAD_ID' \
+curl --location 'https://darkorchid-kudu-454380.hostingersite.com/api/fleads/LEAD_ID' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN'
 ```
 
@@ -412,7 +412,7 @@ curl --location 'https://backend.bohraproperty.com/api/fleads/LEAD_ID' \
 ## 4. UPDATE FINANCE LEAD
 
 ```bash
-curl --location --request PUT 'https://backend.bohraproperty.com/api/fleads/LEAD_ID' \
+curl --location --request PUT 'https://darkorchid-kudu-454380.hostingersite.com/api/fleads/LEAD_ID' \
   --header 'Content-Type: application/json' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN' \
   --data '{
@@ -429,7 +429,7 @@ curl --location --request PUT 'https://backend.bohraproperty.com/api/fleads/LEAD
 ## 5. UPDATE FINANCE LEAD STATUS
 
 ```bash
-curl --location --request PATCH 'https://backend.bohraproperty.com/api/fleads/LEAD_ID/status' \
+curl --location --request PATCH 'https://darkorchid-kudu-454380.hostingersite.com/api/fleads/LEAD_ID/status' \
   --header 'Content-Type: application/json' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN' \
   --data '{
@@ -444,7 +444,7 @@ curl --location --request PATCH 'https://backend.bohraproperty.com/api/fleads/LE
 ## 6. UPDATE FINANCE LEAD FOLLOW-UP DATE
 
 ```bash
-curl --location --request PATCH 'https://backend.bohraproperty.com/api/fleads/LEAD_ID/followup' \
+curl --location --request PATCH 'https://darkorchid-kudu-454380.hostingersite.com/api/fleads/LEAD_ID/followup' \
   --header 'Content-Type: application/json' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN' \
   --data '{
@@ -457,7 +457,7 @@ curl --location --request PATCH 'https://backend.bohraproperty.com/api/fleads/LE
 ## 7. TRANSFER FINANCE LEAD
 
 ```bash
-curl --location --request PATCH 'https://backend.bohraproperty.com/api/fleads/LEAD_ID/transfer' \
+curl --location --request PATCH 'https://darkorchid-kudu-454380.hostingersite.com/api/fleads/LEAD_ID/transfer' \
   --header 'Content-Type: application/json' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN' \
   --data '{
@@ -470,7 +470,7 @@ curl --location --request PATCH 'https://backend.bohraproperty.com/api/fleads/LE
 ## 8. DELETE FINANCE LEAD
 
 ```bash
-curl --location --request DELETE 'https://backend.bohraproperty.com/api/fleads/LEAD_ID' \
+curl --location --request DELETE 'https://darkorchid-kudu-454380.hostingersite.com/api/fleads/LEAD_ID' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN'
 ```
 
@@ -479,7 +479,7 @@ curl --location --request DELETE 'https://backend.bohraproperty.com/api/fleads/L
 ## 9. GET FINANCE LEAD HISTORY
 
 ```bash
-curl --location 'https://backend.bohraproperty.com/api/fleads/LEAD_ID/history' \
+curl --location 'https://darkorchid-kudu-454380.hostingersite.com/api/fleads/LEAD_ID/history' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN'
 ```
 
@@ -488,7 +488,7 @@ curl --location 'https://backend.bohraproperty.com/api/fleads/LEAD_ID/history' \
 ## 10. GET FINANCE DASHBOARD
 
 ```bash
-curl --location 'https://backend.bohraproperty.com/api/fleads/fdashboard' \
+curl --location 'https://darkorchid-kudu-454380.hostingersite.com/api/fleads/fdashboard' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN'
 ```
 
@@ -497,7 +497,7 @@ curl --location 'https://backend.bohraproperty.com/api/fleads/fdashboard' \
 ## 11. BULK UPLOAD FINANCE LEADS (CSV/Excel)
 
 ```bash
-curl --location 'https://backend.bohraproperty.com/api/fleads/bulk-upload' \
+curl --location 'https://darkorchid-kudu-454380.hostingersite.com/api/fleads/bulk-upload' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN' \
   --form 'file=@"/path/to/your/file.xlsx"'
 ```
@@ -520,7 +520,7 @@ curl --location 'https://backend.bohraproperty.com/api/fleads/bulk-upload' \
 ## 12. BULK TRANSFER FINANCE LEADS
 
 ```bash
-curl --location --request PATCH 'https://backend.bohraproperty.com/api/fleads/bulk-transfer' \
+curl --location --request PATCH 'https://darkorchid-kudu-454380.hostingersite.com/api/fleads/bulk-transfer' \
   --header 'Content-Type: application/json' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN' \
   --data '{
@@ -536,7 +536,7 @@ curl --location --request PATCH 'https://backend.bohraproperty.com/api/fleads/bu
 ## 1. CREATE TASK NOTE
 
 ```bash
-curl --location 'https://backend.bohraproperty.com/api/tasknotes' \
+curl --location 'https://darkorchid-kudu-454380.hostingersite.com/api/tasknotes' \
   --header 'Content-Type: application/json' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN' \
   --data '{
@@ -556,7 +556,7 @@ curl --location 'https://backend.bohraproperty.com/api/tasknotes' \
 ## 2. GET ALL TASK NOTES
 
 ```bash
-curl --location 'https://backend.bohraproperty.com/api/tasknotes' \
+curl --location 'https://darkorchid-kudu-454380.hostingersite.com/api/tasknotes' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN'
 ```
 
@@ -565,7 +565,7 @@ curl --location 'https://backend.bohraproperty.com/api/tasknotes' \
 ## 3. GET TASK NOTE BY ID
 
 ```bash
-curl --location 'https://backend.bohraproperty.com/api/tasknotes/NOTE_ID' \
+curl --location 'https://darkorchid-kudu-454380.hostingersite.com/api/tasknotes/NOTE_ID' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN'
 ```
 
@@ -574,7 +574,7 @@ curl --location 'https://backend.bohraproperty.com/api/tasknotes/NOTE_ID' \
 ## 4. UPDATE TASK NOTE (Update + Add Comment)
 
 ```bash
-curl --location --request PUT 'https://backend.bohraproperty.com/api/tasknotes/NOTE_ID' \
+curl --location --request PUT 'https://darkorchid-kudu-454380.hostingersite.com/api/tasknotes/NOTE_ID' \
   --header 'Content-Type: application/json' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN' \
   --data '{
@@ -592,7 +592,7 @@ curl --location --request PUT 'https://backend.bohraproperty.com/api/tasknotes/N
 ## 5. DELETE TASK NOTE
 
 ```bash
-curl --location --request DELETE 'https://backend.bohraproperty.com/api/tasknotes/NOTE_ID' \
+curl --location --request DELETE 'https://darkorchid-kudu-454380.hostingersite.com/api/tasknotes/NOTE_ID' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN'
 ```
 
@@ -603,7 +603,7 @@ curl --location --request DELETE 'https://backend.bohraproperty.com/api/tasknote
 ## 1. GET MY NOTIFICATIONS
 
 ```bash
-curl --location 'https://backend.bohraproperty.com/api/notifications' \
+curl --location 'https://darkorchid-kudu-454380.hostingersite.com/api/notifications' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN'
 ```
 
@@ -612,7 +612,7 @@ curl --location 'https://backend.bohraproperty.com/api/notifications' \
 ## 2. MARK NOTIFICATION AS READ
 
 ```bash
-curl --location --request PATCH 'https://backend.bohraproperty.com/api/notifications/NOTIFICATION_ID/read' \
+curl --location --request PATCH 'https://darkorchid-kudu-454380.hostingersite.com/api/notifications/NOTIFICATION_ID/read' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN'
 ```
 
@@ -621,7 +621,7 @@ curl --location --request PATCH 'https://backend.bohraproperty.com/api/notificat
 ## 3. MARK ALL NOTIFICATIONS AS READ
 
 ```bash
-curl --location --request PATCH 'https://backend.bohraproperty.com/api/notifications/read-all' \
+curl --location --request PATCH 'https://darkorchid-kudu-454380.hostingersite.com/api/notifications/read-all' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN'
 ```
 
@@ -630,7 +630,7 @@ curl --location --request PATCH 'https://backend.bohraproperty.com/api/notificat
 ## 4. DELETE NOTIFICATION
 
 ```bash
-curl --location --request DELETE 'https://backend.bohraproperty.com/api/notifications/NOTIFICATION_ID' \
+curl --location --request DELETE 'https://darkorchid-kudu-454380.hostingersite.com/api/notifications/NOTIFICATION_ID' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN'
 ```
 
@@ -641,7 +641,7 @@ curl --location --request DELETE 'https://backend.bohraproperty.com/api/notifica
 ## 1. CREATE SPENDING ENTRY
 
 ```bash
-curl --location 'https://backend.bohraproperty.com/api/opera/spending' \
+curl --location 'https://darkorchid-kudu-454380.hostingersite.com/api/opera/spending' \
   --header 'Content-Type: application/json' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN' \
   --data '{
@@ -658,13 +658,13 @@ curl --location 'https://backend.bohraproperty.com/api/opera/spending' \
 ## 2. GET ALL SPENDING ENTRIES
 
 ```bash
-curl --location 'https://backend.bohraproperty.com/api/opera/spending' \
+curl --location 'https://darkorchid-kudu-454380.hostingersite.com/api/opera/spending' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN'
 ```
 
 **With Filtering:**
 ```bash
-curl --location 'https://backend.bohraproperty.com/api/opera/spending?type=Meta&startDate=2026-01-01&endDate=2026-02-01' \
+curl --location 'https://darkorchid-kudu-454380.hostingersite.com/api/opera/spending?type=Meta&startDate=2026-01-01&endDate=2026-02-01' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN'
 ```
 
@@ -673,7 +673,7 @@ curl --location 'https://backend.bohraproperty.com/api/opera/spending?type=Meta&
 ## 3. UPDATE SPENDING ENTRY
 
 ```bash
-curl --location --request PUT 'https://backend.bohraproperty.com/api/opera/spending/SPENDING_ID' \
+curl --location --request PUT 'https://darkorchid-kudu-454380.hostingersite.com/api/opera/spending/SPENDING_ID' \
   --header 'Content-Type: application/json' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN' \
   --data '{
@@ -688,7 +688,7 @@ curl --location --request PUT 'https://backend.bohraproperty.com/api/opera/spend
 ## 4. DELETE SPENDING ENTRY
 
 ```bash
-curl --location --request DELETE 'https://backend.bohraproperty.com/api/opera/spending/SPENDING_ID' \
+curl --location --request DELETE 'https://darkorchid-kudu-454380.hostingersite.com/api/opera/spending/SPENDING_ID' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN'
 ```
 
@@ -697,7 +697,7 @@ curl --location --request DELETE 'https://backend.bohraproperty.com/api/opera/sp
 ## 5. GET OPERATIONS DASHBOARD
 
 ```bash
-curl --location 'https://backend.bohraproperty.com/api/opera/dashboard' \
+curl --location 'https://darkorchid-kudu-454380.hostingersite.com/api/opera/dashboard' \
   --header 'Authorization: Bearer YOUR_JWT_TOKEN'
 ```
 
@@ -712,7 +712,7 @@ Returns spending summary, total by type, graphs data, etc.
 
 
 
-postman request 'https://backend.bohraproperty.com/api/opera/spending-stats' \
+postman request 'https://darkorchid-kudu-454380.hostingersite.com/api/opera/spending-stats' \
   --header 'Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTcxYmJkOWRmMzgxZjI5MjM3NDg4NDQiLCJyb2xlIjoiYWRtaW4iLCJlbWFpbCI6ImFkbWluMUBnbWFpbC5jb20iLCJuYW1lIjoiQWRtaW4gT25lIiwiZG9tYWluIjoicHJvcGVydHkiLCJkZXNpZ25hdGlvbiI6ImVtcGxveWVlIiwiaWF0IjoxNzcwMDEzODQyLCJleHAiOjE3NzAwNDYyNDJ9.Q9Spdr_l3wqddWHLO3V92x9-rSSwp_dvXSGJl3evDPE' \
   --header 'Content-Type: application/json'
 
@@ -725,7 +725,7 @@ postman request 'https://backend.bohraproperty.com/api/opera/spending-stats' \
 1. Go to Postman
 2. Click "Import"
 3. Copy-paste the curl commands as individual requests
-4. Set up environment variable: `{{baseUrl}}` = `https://backend.bohraproperty.com/api`
+4. Set up environment variable: `{{baseUrl}}` = `https://darkorchid-kudu-454380.hostingersite.com/api`
 5. Set up environment variable: `{{token}}` = Your JWT token from login
 
 ## Option 2: Use as Curl Commands
@@ -828,7 +828,7 @@ pm.environment.set("token", pm.response.json().token);
 
 **Last Updated:** January 30, 2026
 **API Version:** 1.0
-**Base URL:** https://backend.bohraproperty.com/api
+**Base URL:** https://darkorchid-kudu-454380.hostingersite.com/api
 
 **Example Responses**
 
@@ -1226,4 +1226,3 @@ Below are concise example responses for common endpoints. Use these to shape cli
 ```
 
 Note: code blocks use `json` fences — many Markdown viewers show colored syntax highlighting. For the most "colorful" experience, import these examples into Postman as a collection (I can create a Postman collection JSON for direct import which will show responses with full formatting and colors).
-

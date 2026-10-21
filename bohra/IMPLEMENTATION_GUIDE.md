@@ -422,7 +422,28 @@ JWT_SECRET=your_secret_key
 MONGO_URI=mongodb+srv://...
 NODE_ENV=production
 PORT=4000
+FRONTEND_URL=https://bohraproperties.vercel.app
 ```
+
+### Create or reset the first superadmin
+
+Run this command in the backend deployment environment configured with the
+production `MONGO_URI` and `JWT_SECRET`. Set `SUPERADMIN_EMAIL`,
+`SUPERADMIN_PASSWORD` (at least 12 characters), and `SUPERADMIN_PHONE`
+(10 digits) in that environment first:
+
+```bash
+npm run create:superadmin
+```
+
+This creates an approved superadmin. If that email already belongs to a
+superadmin, add `-- --reset-password` to explicitly reset its password. The
+command refuses to promote or reset another role, and refuses the placeholder
+database name `yourDB`.
+
+Alternatively, the protected `POST /api/auth/create-superadmin` route requires
+`ONE_TIME_ADMIN_SECRET` on the backend and an `x-admin-secret` request header.
+Remove that secret from the deployment environment after using the route.
 
 ### npm Dependencies
 

@@ -15,5 +15,5 @@ module.exports = {
   EMAIL_PASS: value('EMAIL_PASS'),
   ADMIN_EMAIL: value('ADMIN_EMAIL'),
   BACKEND_URL: value('BACKEND_URL', 'http://localhost:4000').replace(/\/+$/, ''),
-  FRONTEND_URL: value('FRONTEND_URL', 'http://localhost:5173').replace(/\/+$/, ''),
+  FRONTEND_URL: value('FRONTEND_URL', 'https://bohraproperties.vercel.app').replace(/\/+$/, ''),
 };
