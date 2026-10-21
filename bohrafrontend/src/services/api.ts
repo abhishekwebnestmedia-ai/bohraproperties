@@ -5,7 +5,7 @@ const getApiBaseUrl = (): string => {
   if (fromEnv && fromEnv.trim()) return fromEnv;
 
   // In local development, default to the local backend.
-  if (import.meta.env.DEV) return 'https://darkorchid-kudu-454380.hostingersite.com/api';
+  if (import.meta.env.DEV) return 'http://localhost:4000/api';
 
   // Production / fallback
   return 'https://darkorchid-kudu-454380.hostingersite.com/api';

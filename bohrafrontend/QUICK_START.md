@@ -6,6 +6,19 @@ Your Bohra Properties CRM now has full authentication integration with the backe
 
 ## Start the Application
 
+### Configure environment
+
+Copy `.env.example` to `.env` in this folder. The example points the frontend
+to the deployed backend at `https://darkorchid-kudu-454380.hostingersite.com`. Change
+`VITE_API_URL` and `VITE_SOCKET_URL` if your backend runs elsewhere. For a
+local backend, use `http://localhost:4000/api` and `http://localhost:4000`.
+Restart Vite after changing environment variables.
+
+Local `.env` files are ignored by Git. For production, configure the `VITE_*`
+variables in your hosting provider's build environment.
+
+### Run the frontend
+
 ```bash
 npm run dev
 ```
@@ -155,7 +168,7 @@ const { data, isLoading, error } = useX();
 
 ## API Endpoints Available
 
-Base: `https://backend.bohraproperty.com/api`
+Base: `https://darkorchid-kudu-454380.hostingersite.com/api`
 
 **Auth:**
 - POST `/auth/login` - Login
@@ -181,7 +194,7 @@ See full API docs in the user's original message.
 
 ### Can't Login?
 - Check network tab in DevTools
-- Verify API is running at `https://backend.bohraproperty.com/api`
+- Verify API is running at `https://darkorchid-kudu-454380.hostingersite.com/api`
 - Check credentials are correct
 
 ### Token Expired?

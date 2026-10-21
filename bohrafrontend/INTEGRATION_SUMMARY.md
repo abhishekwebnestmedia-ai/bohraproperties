@@ -8,7 +8,7 @@
 
 ### 2. **Created Service Layer**
 - **`src/services/api.ts`** - Configured Axios instance with:
-  - Base URL: `https://backend.bohraproperty.com/api`
+  - Base URL: `https://darkorchid-kudu-454380.hostingersite.com/api`
   - Request interceptor to attach JWT token
   - Response interceptor for error handling (401 auto-redirect)
   
@@ -191,7 +191,7 @@ Use the notifications API in the Header component
 
 ## 📖 API Reference
 
-**Base URL:** `https://backend.bohraproperty.com/api`
+**Base URL:** `https://darkorchid-kudu-454380.hostingersite.com/api`
 
 All authenticated endpoints require:
 ```

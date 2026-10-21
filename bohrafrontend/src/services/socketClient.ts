@@ -15,7 +15,7 @@ export const getSocketBaseUrl = () => {
 
   // Fallback: localhost for development, production URL otherwise
   if (import.meta.env.DEV) return 'http://localhost:4000';
-  return 'https://backend.bohraproperty.com';
+  return 'https://darkorchid-kudu-454380.hostingersite.com';
 };
 
 export const getSocketPath = () => {

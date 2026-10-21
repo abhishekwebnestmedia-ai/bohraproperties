@@ -153,7 +153,7 @@ function RegisterForm() {
 
 ### Base URL
 ```
-https://backend.bohraproperty.com/api
+https://darkorchid-kudu-454380.hostingersite.com/api
 ```
 
 ### Authentication Endpoints
