@@ -40,9 +40,9 @@ function LoginComponent() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    login({ 
-      email: 'admin@bohra.com', 
-      password: 'password123' 
+    login({
+      email: credentials.email,
+      password: credentials.password,
     });
   };
 
@@ -290,11 +290,5 @@ export const useCreateLead = () => {
 
 ## Testing Login
 
-Use these credentials to test:
-
-```
-Email: admin@bohra.com
-Password: password123
-```
-
-Or create your own user via the registration flow (requires admin access).
+There is no default login account. Use credentials for an approved account
+provisioned by the backend administrator.

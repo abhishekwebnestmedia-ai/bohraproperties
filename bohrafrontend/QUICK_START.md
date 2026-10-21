@@ -29,11 +29,9 @@ The app will start on `http://localhost:5173`
 
 When you navigate to the app, you'll be automatically redirected to the login page.
 
-**Test Credentials:**
-```
-Email: admin@bohra.com
-Password: password123
-```
+There is no default login account. Ask your backend administrator to provision
+an approved superadmin account using the backend's `npm run create:superadmin`
+command, then sign in with the email and password configured for that account.
 
 After login, you'll be redirected to your role-based dashboard.
 

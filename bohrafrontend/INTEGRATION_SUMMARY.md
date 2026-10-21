@@ -90,11 +90,7 @@
 ### Test the Login
 1. Start the dev server: `npm run dev`
 2. Navigate to the login page (will auto-redirect if not authenticated)
-3. Use test credentials:
-   ```
-   Email: admin@bohra.com
-   Password: password123
-   ```
+3. Sign in with an approved account provisioned by the backend administrator.
 4. Upon successful login, you'll be redirected to your role-based dashboard
 
 ### User Registration Flow (Inside App)
